@@ -4,71 +4,22 @@ import { useTranslation } from "react-i18next"
 
 import mq from "../../../mediaQuery"
 
-import jeff from "./photos/jeff.png"
-import nick from "./photos/nick.png"
-import makoto from "./photos/makoto.png"
-import kevin from "./photos/kevin.png"
-import leon from "./photos/leon.png"
-import richard from "./photos/richard.png"
-import muhammed from "./photos/muhammed.png"
-import alisha from "./photos/alisha.png"
-import taytems from "./photos/taytems.png"
+import mainnet_pat from "./photos/mainnet_pat.png"
+import kasumi from "./photos/kasumi.png"
 import { Anchor, AnchorContainer } from "../../Anchor"
 
 const team = [
   {
-    name: "Nick Johnson",
-    title: "Creator & Lead Developer",
-    img: nick,
-    link: "https://twitter.com/wekabot",
+    name: "mainnet-pat",
+    title: "Maintainer & Lead Developer",
+    img: mainnet_pat,
+    link: "https://github.com/mainnet-pat",
   },
   {
-    name: "Jeff Lau",
-    title: "Frontend & Solidity Developer",
-    img: jeff,
-    link: "https://twitter.com/_jefflau",
-  },
-  {
-    name: "Makoto Inoue",
-    title: "JS & Solidity Developer",
-    img: makoto,
-    link: "https://gist.github.com/makoto/c6f2e5abdaacb69b1d9a6bae990800c4",
-  },
-  {
-    name: "Kevin | validator.eth",
-    title: "Support Lead",
-    img: kevin,
-    link: "https://twitter.com/ValidatorEth",
-  },
-  {
-    name: "Leon Talbert",
-    title: "Frontend Developer",
-    img: leon,
-    link: "https://twitter.com/talbert_leon",
-  },
-  {
-    name: "Richard Moore",
-    title: "Advisor",
-    img: richard,
-    link: "https://twitter.com/ricmoo",
-  },
-  {
-    name: "Muhammed Tanrıkulu",
-    title: "Full Stack Developer",
-    img: muhammed,
-    link: "https://twitter.com/md_tanrikulu",
-  },
-  {
-    name: "alisha.eth",
-    title: "Community Manager",
-    img: alisha,
-    link: "https://twitter.com/futurealisha",
-  },
-  {
-    name: "taytems.eth",
-    title: "Frontend Developer",
-    img: taytems,
-    link: "https://twitter.com/taytemss",
+    name: "Kasumi",
+    title: "Solidity Developer",
+    img: kasumi,
+    link: "https://twitter.com/mistswapdex",
   },
 ]
 
@@ -101,7 +52,7 @@ const TeamMembers = styled("section")`
 
 const TeamMemberContainer = styled("a")`
   width: calc(50% - 40px);
-  margin: 0 20px;
+  margin: 80px 80px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -134,6 +85,7 @@ const TeamMemberContainer = styled("a")`
 
   .photo {
     display: block;
+    border-radius: 100%;
     width: 170px;
     height: 170px;
     position: relative;

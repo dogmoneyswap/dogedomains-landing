@@ -6,14 +6,6 @@ import mq from "../../../mediaQuery"
 import { importAll } from "../../../utils"
 import { Anchor, AnchorContainer } from "../../Anchor"
 
-const partners = importAll(
-  require.context("./partners", false, /\.(png|jpe?g|svg)$/)
-)
-
-const associated = importAll(
-  require.context("./associated", false, /\.(png|jpe?g|svg)$/)
-)
-
 const AboutENSContainer = styled("div")`
   background: white;
   padding-top: 20px;
@@ -100,36 +92,8 @@ export default function AboutENS(props) {
       </AnchorContainer>
 
       <p className="prelede">
-        <Trans i18nKey="about.aboutENS.text">
-          Started at the Ethereum Foundation in early 2017, ENS spun off as a
-          separate organization in 2018. ENS is managed by the Singaporean
-          non-profit True Names LTD and is a{" "}
-          <a href="https://medium.com/the-ethereum-name-service/who-should-own-the-naming-system-of-the-future-ens-as-a-public-good-10e4a0ab71d8">
-            public good
-          </a>
-          , a basic piece of Internet infrastructure that belongs to the
-          community. We welcome all feedback and contributions!
-        </Trans>
+        {t("about.aboutENS.text")}
       </p>
-      <Support>
-        <List1>
-          <p>{t("about.aboutENS.support")}</p>
-          <Logos>
-            {partners.map(logo => (
-              <img src={logo.src.default} alt={logo.name} />
-            ))}
-          </Logos>
-        </List1>
-        <List2>
-          <p>{t("about.aboutENS.support2")}</p>
-
-          <Logos>
-            {associated.map(logo => (
-              <img src={logo.src.default} alt={logo.name} />
-            ))}
-          </Logos>
-        </List2>
-      </Support>
     </AboutENSContainer>
   )
 }
