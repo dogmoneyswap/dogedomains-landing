@@ -195,7 +195,7 @@ export default function HeroCarousel(props) {
           <img src={manageImg} alt={t("manage")} />
         </Slide>
       </Carousel>
-      <Launch href="https://app.ens.domains">
+      <Launch href="https://app.bch.domains">
         {t("home.carousel.launch")}
       </Launch>
     </CarouselContainer>
