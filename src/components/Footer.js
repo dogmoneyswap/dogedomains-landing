@@ -34,17 +34,17 @@ const social = [
   {
     img: twitter,
     text: "Twitter",
-    link: "https://twitter.com/ensdomains",
+    link: "https://twitter.com/mistswapdex",
   },
   {
     img: medium,
     text: "Medium",
-    link: "https://medium.com/the-ethereum-name-service",
+    link: "https://medium.com/@mistswapdex",
   },
   {
     img: github,
     text: "GitHub",
-    link: "https://github.com/ensdomains",
+    link: "https://github.com/mistswapdex",
   },
 ]
 
@@ -112,8 +112,8 @@ export default function Footer(props) {
         ))}
       </SocialContainer>
       <FooterColumn>
-        <MailTo href="mailto:press@ens.domains">press@ens.domains</MailTo>
-        <MailTo href="https://docs.ens.domains/bug-bounty-program">
+        <MailTo href="mailto:press@bch.domains">press@bch.domains</MailTo>
+        <MailTo href="https://docs.bch.domains/bug-bounty-program">
           Bug Bounty
         </MailTo>
       </FooterColumn>

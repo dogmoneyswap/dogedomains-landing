@@ -12,32 +12,18 @@ import { Anchor, AnchorContainer } from "./Anchor"
 
 const links = [
   {
-    name: "subscribe",
-    img: mailingList,
-    text: "Subscribe to our mailing list",
-    cta: "Subscribe",
-    link: "https://ensdomains.substack.com/p/coming-soon",
-  },
-  {
     name: "community",
     img: community,
     text: "Join our Discord community",
     cta: "Join Discord",
-    link: "https://chat.ens.domains/",
-  },
-  {
-    name: "forums",
-    img: forum,
-    text: "Discuss on our forum",
-    cta: "Discuss",
-    link: "https://discuss.ens.domains/",
+    link: "https://discord.com/invite/mistswapdex",
   },
   {
     name: "documentation",
     img: documentation,
     text: "Read our documentation",
     cta: "Read Docs",
-    link: "https://docs.ens.domains/",
+    link: "https://docs.bch.domains/",
   },
 ]
 

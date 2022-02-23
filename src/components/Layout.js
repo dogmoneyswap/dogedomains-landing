@@ -11,7 +11,7 @@ function getTitle(pathname) {
     case "/about":
       return "About ENS"
     default:
-      return "Ethereum Name Service"
+      return "Bitcoin Cash Name Service"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "ENS, Ethereum, Ethereum Name Service, .eth domains, blockchain domains",
+              "BCH, ENS, Bitcoin Cash, Bitcoin Cash Name Service, .bch domains, blockchain domains",
           },
           {
             name: "twitter:card",
@@ -36,11 +36,11 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "Ethereum Name Service",
+            content: "Bitcoin Cash Name Service",
           },
           {
             property: "og:image",
-            content: `https://ens.domains${twitter}`,
+            content: `https://bch.domains${twitter}`,
           },
         ]}
         title={getTitle(location.pathname)}

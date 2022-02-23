@@ -174,15 +174,7 @@ const standardBoxData = [
     color: "#854BFF",
     backgroundColor: "#E1DAF7",
     borderColor: "#C0B2EA",
-    link: "https://chat.ens.domains/",
-  },
-  {
-    icon: discuss,
-    text: "discuss",
-    color: "#DE7224",
-    backgroundColor: "rgba(238, 148, 83, 0.1)",
-    borderColor: "#F8D1B6",
-    link: "https://discuss.ens.domains/",
+    link: "https://discord.com/invite/mistswapdex",
   },
   {
     icon: governance,
@@ -190,15 +182,7 @@ const standardBoxData = [
     color: "#4D90F1",
     backgroundColor: "rgba(77, 144, 241, 0.1)",
     borderColor: "#B0D0FF",
-    link: "https://docs.ens.domains/v/governance/",
-  },
-  {
-    icon: mirror,
-    text: "mirror",
-    color: "#2C2C32",
-    backgroundColor: "#E8E7EF",
-    borderColor: "#D2CFE4",
-    link: "https://ens.mirror.xyz/",
+    link: "https://docs.bch.domains/v/governance/",
   },
 ]
 
@@ -251,7 +235,7 @@ export default function Governance(props) {
         <Content>
           <ContentInner>
             <ContentInnerInner>
-              <MainBox href={"https://claim.ens.domains"} target={"_blank"}>
+              <MainBox href={"https://app.mistswap.fi/swap"} target={"_blank"}>
                 <MainBoxInner>
                   <MainBoxContent>
                     <BoxContentTop>
@@ -270,7 +254,7 @@ export default function Governance(props) {
           </ContentInner>
         </Content>
         <Footer>
-          <a href={"https://twitter.com/ensdomains"}>
+          <a href={"https://twitter.com/mistswapdex"}>
             <img
               src={twitterGrey}
               width="34"
@@ -278,10 +262,7 @@ export default function Governance(props) {
               alt="Twitter"
             />
           </a>
-          <a href={"https://discuss.ens.domains/"}>
-            <img src={discussGrey} width="33" alt="Discuss" />
-          </a>
-          <a href={"https://chat.ens.domains/"}>
+          <a href={"https://discord.com/invite/mistswapdex"}>
             <img
               src={discordGrey}
               width="30"

@@ -179,13 +179,13 @@ export default function Navigation() {
         <NavLink href="/governance" active={true}>
           Governance
         </NavLink>
-        <NavLink href="https://chat.ens.domains/">Community</NavLink>
+        <NavLink href="https://discord.com/invite/mistswapdex">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
-        <NavLink href="https://docs.ens.domains/">Docs</NavLink>
+        <NavLink href="https://docs.bch.domains/">Docs</NavLink>
 
         <Separator />
         <LanguageSwitcher />
-        <a href="https://app.ens.domains">
+        <a href="https://app.bch.domains">
           <Launch style={{ opacity: 1 }} text={t("nav.launch")} />
         </a>
       </Links>
@@ -195,16 +195,16 @@ export default function Navigation() {
           <a href="/governance">Governance</a>
         </li>
         <li>
-          <a href="https://chat.ens.domains/">Community</a>
+          <a href="https://discord.com/invite/mistswapdex">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
         </li>
         <li>
-          <a href="https://docs.ens.domains/">Docs</a>
+          <a href="https://docs.bch.domains/">Docs</a>
         </li>
         <li>
-          <a href="https://app.ens.domains">
+          <a href="https://app.bch.domains">
             <Launch text={t("nav.launch")} />
           </a>
         </li>
