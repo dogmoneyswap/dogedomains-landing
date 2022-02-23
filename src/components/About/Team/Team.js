@@ -14,7 +14,6 @@ import muhammed from "./photos/muhammed.png"
 import alisha from "./photos/alisha.png"
 import taytems from "./photos/taytems.png"
 import { Anchor, AnchorContainer } from "../../Anchor"
-import { MainPageBannerContainer, DAOBannerContent } from "../../DAOBanner"
 
 const team = [
   {
@@ -184,10 +183,6 @@ export default function Team(props) {
   const { t } = useTranslation()
   return (
     <TeamContainer id="about-team">
-      <MainPageBannerContainer>
-        <DAOBannerContent />
-      </MainPageBannerContainer>
-
       <AnchorContainer href={"#about-team"}>
         <h3>
           {t("about.team.title")}
