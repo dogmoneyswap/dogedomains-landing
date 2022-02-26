@@ -1,19 +1,19 @@
 {
   "about": {
-    "aboutENS": {
+    "aboutLNS": {
       "support": "Chúng tôi đã được hỗ trợ bởi",
-      "support2": "Đại diện của ENS tham gia vào cộng đồng Internet rộng lớn hơn",
-      "text": "Bắt nguồn từ Tổ chức Ethereum vào đầu năm 2017, ENS đã được tách ra thành một tổ chức độc lập vào năm 2018. ENS được quản lý bởi tổ chức phi lợi nhuận từ Singapore là True - Names LTD và là một bộ phận đại cơ bản và chất lượng thuộc về cộng đồng. Chúng tôi hoan nghênh mọi lời đánh giá và đóng góp từ các bạn!",
-      "title": "Về ENS"
+      "support2": "Đại diện của LNS tham gia vào cộng đồng Internet rộng lớn hơn",
+      "text": "Bắt nguồn từ Tổ chức smartBCH vào đầu năm 2017, LNS đã được tách ra thành một tổ chức độc lập vào năm 2018. LNS được quản lý bởi tổ chức phi lợi nhuận từ Singapore là True - Names LTD và là một bộ phận đại cơ bản và chất lượng thuộc về cộng đồng. Chúng tôi hoan nghênh mọi lời đánh giá và đóng góp từ các bạn!",
+      "title": "Về LNS"
     },
     "benefits": {
-      "text": "Dù hỗ trợ hàng loạt những tài sản không phải Ethereum, ENS đang hoạt động trên blockchain của Etheruem. Điều này mang đến những lợi ích về tính phi tập trung, an ninh, và chống kiểm dụng và khả năng lập trình của blockchain Ethereum cho việc đặt tên trên Internet, cho phép những tính năng mới như tự lưu trữ, khả năng tương thích trong hệ thống hợp đồng thông minh rộng lớn của Ethereum, và nhiều hơn nữa",
-      "title": "Lợi ích của Ethereum"
+      "text": "Dù hỗ trợ hàng loạt những tài sản không phải smartBCH, LNS đang hoạt động trên blockchain của smartBCH. Điều này mang đến những lợi ích về tính phi tập trung, an ninh, và chống kiểm dụng và khả năng lập trình của blockchain smartBCH cho việc đặt tên trên Internet, cho phép những tính năng mới như tự lưu trữ, khả năng tương thích trong hệ thống hợp đồng thông minh rộng lớn của smartBCH, và nhiều hơn nữa",
+      "title": "Lợi ích của smartBCH"
     },
-    "hero": "The Ethereum Name Service là một giao thức đặt tên dựa trên blockchain với mã nguồn mở",
+    "hero": "The smartBCH Name Service là một giao thức đặt tên dựa trên blockchain với mã nguồn mở",
     "root": {
-      "text": "Để hỗ trợ cho khả năng nâng cấp và bảo trì, và trong những trường hợp dự đoán được nhằm giải quyết những vấn đề về ENS, gốc ENS khi khởi đầu sẽ được sỡ hữu bởi 4 trong số 7 cá nhân, với những thành viên được xem là những người nắm giữ chủ chốt. Trong dài hạn, chúng tôi muốn việc này được thai thế bởi những dạng quá trình quyết định phân tán, và những hệ thống nhu thế sớm muộn sẽ được triển khai",
-      "title": "Quản lý gốc ENS"
+      "text": "Để hỗ trợ cho khả năng nâng cấp và bảo trì, và trong những trường hợp dự đoán được nhằm giải quyết những vấn đề về LNS, gốc LNS khi khởi đầu sẽ được sỡ hữu bởi 4 trong số 7 cá nhân, với những thành viên được xem là những người nắm giữ chủ chốt. Trong dài hạn, chúng tôi muốn việc này được thai thế bởi những dạng quá trình quyết định phân tán, và những hệ thống nhu thế sớm muộn sẽ được triển khai",
+      "title": "Quản lý gốc LNS"
     },
     "team": {
       "title": "Đội ngũ của chúng tôi"
@@ -25,12 +25,12 @@
   "home": {
     "additionalFeatures": {
       "dns": "Lưu trữ và phục vụ những bản hi DNS truyền thống với những tên miền nhất định",
-      "erc721": "Tên miền .ETH là những token NFT tương thích với tiêu chuẩn ERC721",
+      "erc721": "Tên miền .BCH là những token NFT tương thích với tiêu chuẩn ERC721",
       "recordType": "Tạo ra loại bản ghi mà chỉ riêng dự án bạn sỡ hữu",
       "subDomains": "Tạo tên miền phụ để làm tên đăng nhập cho dự án của bạn",
-      "textRecord": "Đính kèm thông tin hồ sơ và tên miền ENS của bạn với những bản ghi văn bản",
+      "textRecord": "Đính kèm thông tin hồ sơ và tên miền LNS của bạn với những bản ghi văn bản",
       "title": "Những tính năng cộng thêm",
-      "tor": "Dùng ENS để truy cập dễ dàng hơn vào những dịch vụ ẩn của Tor .onion"
+      "tor": "Dùng LNS để truy cập dễ dàng hơn vào những dịch vụ ẩn của Tor .onion"
     },
     "carousel": {
       "launch": "Khởi động app",
@@ -43,16 +43,16 @@
       "text": "No more sandboxed usernames. Own your username, store an avatar and other profile data, and use it across services."
     },
     "cryptocurrencies": {
-      "text": "Không cần phải chép và dán những địa chỉ dài dòng nữa. Dùng ENS để lưu trữ tất địa chỉ và thực hành thanh toán với mọi loại tiền điện tử",
+      "text": "Không cần phải chép và dán những địa chỉ dài dòng nữa. Dùng LNS để lưu trữ tất địa chỉ và thực hành thanh toán với mọi loại tiền điện tử",
       "title": "Một Tên Miền Cho Mọi Loại Tiền Điện Tử Bạn Sở Hữu"
     },
     "decentralisedWebsites": {
-      "text": "Thiết lập trang web phân tán chống kiểm duyệt với ENS. Tải trang web của bạn lên IPFS trong mục Quản lý và truy cập vào nó với tên miền ENS của bạn",
+      "text": "Thiết lập trang web phân tán chống kiểm duyệt với LNS. Tải trang web của bạn lên IPFS trong mục Quản lý và truy cập vào nó với tên miền LNS của bạn",
       "title": "Trang web Phân tán"
     },
     "dns": {
-      "text1": "Hậu tố đặc trưng của ENS là .ETH, với những toàn bộ đặc tính an toàn của blockchain Ethereum",
-      "text2": "Bạn cũng có thể dùng ENS với những tên miền DNS bạn đang sỡ hữu. ENS hỗ trợ rất nhiều tên miền bao gồm:",
+      "text1": "Hậu tố đặc trưng của LNS là .BCH, với những toàn bộ đặc tính an toàn của blockchain smartBCH",
+      "text2": "Bạn cũng có thể dùng LNS với những tên miền DNS bạn đang sỡ hữu. LNS hỗ trợ rất nhiều tên miền bao gồm:",
       "title": "Dùng tên miền truyền thống"
     },
     "ecosystem": {
@@ -60,7 +60,7 @@
       "browsers": "Trình duyệt",
       "seeLess": "Xem ít hơn",
       "seeMore": "Xem thêm",
-      "title": "Hệ sinh thái ENS",
+      "title": "Hệ sinh thái LNS",
       "wallets": "Ví"
     },
     "getInvolved": {
@@ -89,7 +89,7 @@
       "names": "Tên miền",
       "owners": "Chủ sở hữu",
       "services": "Tích hợp",
-      "title": "ENS là tiêu chuẩn đặt tên dựa trên blockchain được sử dụng rộng rãi nhất"
+      "title": "LNS là tiêu chuẩn đặt tên dựa trên blockchain được sử dụng rộng rãi nhất"
     }
   },
   "nav": {

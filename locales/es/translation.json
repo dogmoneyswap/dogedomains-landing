@@ -1,19 +1,19 @@
 {
   "about": {
-    "aboutENS": {
+    "aboutLNS": {
       "support": "Hemos recibido un generoso apoyo de:",
-      "support2": "Los representantes de la ENS participan en la gran comunidad de Internet:",
-      "text": "Iniciada en la Fundación Ethereum a principios de 2017, ENS se convirtió en una organización independiente en 2018. ENS es administrada por la organización sin ánimo de lucro Singapur True Names LTD como un bien público, una pieza básica de la infraestructura de Internet que pertenece a la comunidad. ¡Agradecemos todos los comentarios y contribuciones!",
-      "title": "Sobre ENS"
+      "support2": "Los representantes de la LNS participan en la gran comunidad de Internet:",
+      "text": "Iniciada en la Fundación smartBCH a principios de 2017, LNS se convirtió en una organización independiente en 2018. LNS es administrada por la organización sin ánimo de lucro Singapur True Names LTD como un bien público, una pieza básica de la infraestructura de Internet que pertenece a la comunidad. ¡Agradecemos todos los comentarios y contribuciones!",
+      "title": "Sobre LNS"
     },
     "benefits": {
-      "text": "Aunque soporta una amplia gama de activos fuera de Ethereum, el ENS funciona en la cadena de bloques de Ethereum. Esto otorga  los beneficios de la descentralización, seguridad, resistencia a la censura y la capacidad de programación para nombres de Internet de la cadena de bloques de Ethereum, permitiendo nuevas características como la autocustodia, la componibilidad en el mayor ecosistema de contratos inteligentes de Ethereum, y más.",
-      "title": "Beneficios de Ethereum"
+      "text": "Aunque soporta una amplia gama de activos fuera de smartBCH, el LNS funciona en la cadena de bloques de smartBCH. Esto otorga  los beneficios de la descentralización, seguridad, resistencia a la censura y la capacidad de programación para nombres de Internet de la cadena de bloques de smartBCH, permitiendo nuevas características como la autocustodia, la componibilidad en el mayor ecosistema de contratos inteligentes de smartBCH, y más.",
+      "title": "Beneficios de smartBCH"
     },
-    "hero": "El Servicio de Nombres de Ethereum es un protocolo de nombres de código abierto basado en blockchain",
+    "hero": "El Servicio de Nombres de smartBCH es un protocolo de nombres de código abierto basado en blockchain",
     "root": {
-      "text": "Para facilitar la posibilidad de actualizaciones y mantenimiento, y en circunstancias excepcionales para manejar problemas con el ENS, la raíz del ENS es inicialmente propiedad de  cuatro de siete multifirmas, con miembros de proyectos relacionados como titulares principales. A largo plazo, nos gustaría que la multifirma del raíz fuera sustituido por alguna forma de proceso de toma de decisiones distribuido, a medida que esos sistemas estén disponibles.",
-      "title": "Gestión del raiz de ENS"
+      "text": "Para facilitar la posibilidad de actualizaciones y mantenimiento, y en circunstancias excepcionales para manejar problemas con el LNS, la raíz del LNS es inicialmente propiedad de  cuatro de siete multifirmas, con miembros de proyectos relacionados como titulares principales. A largo plazo, nos gustaría que la multifirma del raíz fuera sustituido por alguna forma de proceso de toma de decisiones distribuido, a medida que esos sistemas estén disponibles.",
+      "title": "Gestión del raiz de LNS"
     },
     "team": {
       "title": "Conoce al equipo"
@@ -25,12 +25,12 @@
   "home": {
     "additionalFeatures": {
       "dns": "Almacena y utiliza registros DNS tradicionales con ciertos nombres.",
-      "erc721": "Los nombres .ETH son ERC721 que cumplen con el NFTs",
+      "erc721": "Los nombres .BCH son ERC721 que cumplen con el NFTs",
       "recordType": "Crea el tipo de registro de tu proyecto.",
-      "subDomains": "Crea subdominios ENS como nombres de usuario para tu proyecto.",
-      "textRecord": "Adjunta información de perfil a tu nombre ENS con registros de texto.",
+      "subDomains": "Crea subdominios LNS como nombres de usuario para tu proyecto.",
+      "textRecord": "Adjunta información de perfil a tu nombre LNS con registros de texto.",
       "title": "Características adicionales",
-      "tor": "Usa ENS para acceder más fácilmente a los servicios ocultos de Tor .onion."
+      "tor": "Usa LNS para acceder más fácilmente a los servicios ocultos de Tor .onion."
     },
     "carousel": {
       "launch": "Abrir App",
@@ -43,16 +43,16 @@
       "text": "No more sandboxed usernames. Own your username, store an avatar and other profile data, and use it across services."
     },
     "cryptocurrencies": {
-      "text": "No más copiar y pegar direcciones largas. Usa tu nombre ENS para almacenar todas tus direcciones y recibir pagos en cualquier criptomoneda.",
+      "text": "No más copiar y pegar direcciones largas. Usa tu nombre LNS para almacenar todas tus direcciones y recibir pagos en cualquier criptomoneda.",
       "title": "Un Nombre Para Todas Tus Criptomonedas"
     },
     "decentralisedWebsites": {
-      "text": "Crea sitios web descentralizados resistentes a la censura con ENS. Sube tu sitio web a IPFS en nuestro Administrador y accede con tu nombre ENS.",
+      "text": "Crea sitios web descentralizados resistentes a la censura con LNS. Sube tu sitio web a IPFS en nuestro Administrador y accede con tu nombre LNS.",
       "title": "Sitios Web descentralizados"
     },
     "dns": {
-      "text1": "El sufijo nativo del nombre para ENS es .ETH, que cuenta con la  seguridad de ser  blockchain nativo.",
-      "text2": "También puedes usar ENS con los nombres del DNS que ya tienes. ENS admite muchos nombres de DNS, entre ellos:",
+      "text1": "El sufijo nativo del nombre para LNS es .BCH, que cuenta con la  seguridad de ser  blockchain nativo.",
+      "text2": "También puedes usar LNS con los nombres del DNS que ya tienes. LNS admite muchos nombres de DNS, entre ellos:",
       "title": "Usa dominios tradicionales"
     },
     "ecosystem": {
@@ -60,7 +60,7 @@
       "browsers": "Navegadores",
       "seeLess": "Ver menos",
       "seeMore": "Ver más",
-      "title": "Ecosistema ENS",
+      "title": "Ecosistema LNS",
       "wallets": "Monederos"
     },
     "getInvolved": {
@@ -89,7 +89,7 @@
       "names": "Nombres",
       "owners": "Propietarios",
       "services": "Integraciones",
-      "title": "ENS es el estándar de denominación de cadena de bloques más extendido e integrado."
+      "title": "LNS es el estándar de denominación de cadena de bloques más extendido e integrado."
     }
   },
   "nav": {

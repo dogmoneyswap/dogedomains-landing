@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "One Name For All of Your Addresses",
-      "text": "No more copying and pasting long addresses. Use your ENS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
+      "text": "No more copying and pasting long addresses. Use your LNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
     },
     "statistics": {
-      "title": "ENS is the most widely integrated blockchain naming standard.",
+      "title": "LNS is the most widely integrated blockchain naming standard.",
       "names": "Names",
       "services": "Integrations",
       "owners": "Owners"
     },
     "decentralisedWebsites": {
       "title": "Decentralised Websites",
-      "text": "Launch censorship-resistant decentralised websites with ENS. Upload your website to IPFS and access it with your ENS name."
+      "text": "Launch censorship-resistant decentralised websites with LNS. Upload your website to IPFS and access it with your LNS name."
     },
     "dns": {
       "title": "Use Traditional Domains",
-      "text1": "The native name suffix for ENS is .ETH, which has the full security benefits of being blockchain-native.",
-      "text2": "You can also use ENS with DNS names you already own. ENS supports most DNS names, including:"
+      "text1": "The native name suffix for LNS is .BCH, which has the full security benefits of being blockchain-native.",
+      "text2": "You can also use LNS with DNS names you already own. LNS supports most DNS names, including:"
     },
     "ecosystem": {
-      "title": "ENS Ecosystem",
+      "title": "LNS Ecosystem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -52,12 +52,12 @@
       "title": "Additional Features",
       "recordType": "Create your project’s own record type.",
 
-      "textRecord": "Attach profile information to your ENS name with text records.",
+      "textRecord": "Attach profile information to your LNS name with text records.",
 
-      "subDomains": "Create ENS subdomains as usernames for your project.",
+      "subDomains": "Create LNS subdomains as usernames for your project.",
       "dns": "Store and serve traditional DNS records with certain names.",
-      "tor": "Use ENS to more easily access Tor .onion hidden services.",
-      "erc721": ".ETH names are ERC721-compliant NFTs."
+      "tor": "Use LNS to more easily access Tor .onion hidden services.",
+      "erc721": ".BCH names are ERC721-compliant NFTs."
     },
     "getInvolved": {
       "title": "Get Involved",
@@ -80,27 +80,27 @@
     }
   },
   "about": {
-    "hero": "The Ethereum Name Service is an open source blockchain-based naming protocol.",
-    "aboutENS": {
-      "title": "About ENS",
-      "text": "Started at the Ethereum Foundation in early 2017, ENS spun off with a separate organization in 2018. ENS development is managed by the Singaporean non-profit True Names LTD and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+    "hero": "The Bitcoin Cash Name Service is an open source blockchain-based naming protocol.",
+    "aboutLNS": {
+      "title": "About LNS",
+      "text": "Started at the smartBCH Foundation in early 2017, LNS spun off with a separate organization in 2018. LNS development is managed by the Singaporean non-profit True Names LTD and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
-      "support2": "Representatives of ENS participate in the greater Internet community:"
+      "support2": "Representatives of LNS participate in the greater Internet community:"
     },
     "team": {
       "title": "Meet the team"
     },
     "benefits": {
-      "title": "Benefits of Ethereum",
-      "text": "Though it supports a wide range of non-Ethereum assets, ENS runs on the Ethereum blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the Ethereum blockchain to Internet naming, enabling new features like self-custody, composability in the greater Ethereum smart-contract ecosystem, and more."
+      "title": "Benefits of Bitcoin Cash",
+      "text": "Though it supports a wide range of non-smartBCH assets, LNS runs on the smartBCH blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the smartBCH blockchain to Internet naming, enabling new features like self-custody, composability in the greater smartBCH smart-contract ecosystem, and more."
     },
     "root": {
-      "title": "Managing the ENS root",
-      "text": "To facilitate the possibility of upgrades and maintenance, the ENS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
+      "title": "Managing the LNS root",
+      "text": "To facilitate the possibility of upgrades and maintenance, the LNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
     }
   },
   "governance": {
-    "claim": "Claim your $ENS",
+    "claim": "Claim your $LNS",
     "discord": "Chat on Discord",
     "discuss": "Join the forum",
     "governance": "Documentation",
