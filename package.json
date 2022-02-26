@@ -1,13 +1,13 @@
 {
-  "name": "ens.domains-v2",
+  "name": "lns.domains-v2",
   "private": true,
-  "description": "ENS Domains homepage V2",
+  "description": "LNS Domains homepage V2",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "deploy:dev": "gatsby build && cd public && surge . --domain ensdomains.surge.sh",
+    "deploy:dev": "gatsby build",
     "deploy:live": "gatsby build --prefix-paths && node node_modules/gh-pages/bin/gh-pages-clean && gh-pages -d public",
     "deploy:ci": "npm run clean && gatsby build --prefix-paths && ./deploy-gh.sh",
     "deploy:branch": "/bin/sh -c 'if [ \"$TRAVIS_BRANCH\" = \"master\" ]; then npm run deploy:ci; elif [ \"$TRAVIS_BRANCH\" = \"dev\" ]; then npm run deploy:dev; fi'",
