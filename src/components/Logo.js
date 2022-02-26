@@ -24,8 +24,8 @@ const LogoContainer = styled("div")`
 export default function Logo({ className }) {
   return (
     <LogoContainer className={className}>
-      <img src={logo} alt="ENS Logo" className="ens-logo" />
-      <img src={logoText} alt="ENS Logo text" className="ens-logo-text" />
+      <img src={logo} alt="LNS Logo" className="ens-logo" />
+      <img src={logoText} alt="LNS Logo text" className="ens-logo-text" />
     </LogoContainer>
   )
 }
