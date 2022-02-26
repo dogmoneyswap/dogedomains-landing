@@ -81,7 +81,7 @@
     "hero": "以太坊名称服务是一种基于开源区块链的命名协议。",
     "aboutLNS": {
       "title": "关于 LNS",
-      "text": "LNS 于 2017 年初在以太坊基金会成立，2018 年独立运营。LNS 由新加坡非营利性组织 True Names LTD 管理，是一项公益事业，是属于社区的互联网基础设施的一部分。我们欢迎任何贡献和反馈!",
+      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "我们得到的慷慨支持来自: ",
       "support2": "LNS 的代表们参与着更庞大的互联网社区: "
     },

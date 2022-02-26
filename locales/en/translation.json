@@ -83,7 +83,7 @@
     "hero": "The Bitcoin Cash Name Service is an open source blockchain-based naming protocol.",
     "aboutLNS": {
       "title": "About LNS",
-      "text": "Started at the smartBCH Foundation in early 2017, LNS spun off with a separate organization in 2018. LNS development is managed by the Singaporean non-profit True Names LTD and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
       "support2": "Representatives of LNS participate in the greater Internet community:"
     },
