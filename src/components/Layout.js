@@ -9,7 +9,7 @@ function getTitle(pathname) {
     case "/governance":
       return "Governance"
     case "/about":
-      return "About ENS"
+      return "About LNS"
     default:
       return "Bitcoin Cash Name Service"
   }
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "BCH, ENS, Bitcoin Cash, Bitcoin Cash Name Service, .bch domains, blockchain domains",
+              "LNS, BCH, ENS, Bitcoin Cash, Bitcoin Cash Name Service, .bch domains, blockchain domains, ENS on smartBCH",
           },
           {
             name: "twitter:card",
