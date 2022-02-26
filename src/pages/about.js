@@ -18,7 +18,6 @@ export default function About(props) {
       <AboutHero />
       <AboutENS />
       <Team />
-      <Description />
       <GetInvolved />
       <Footer />
     </Layout>
