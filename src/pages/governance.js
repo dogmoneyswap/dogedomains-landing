@@ -174,7 +174,7 @@ const standardBoxData = [
     color: "#854BFF",
     backgroundColor: "#E1DAF7",
     borderColor: "#C0B2EA",
-    link: "https://discord.com/invite/mistswapdex",
+    link: "https://discord.gg/2Q52jB2Rzu",
   },
   {
     icon: governance,
@@ -262,7 +262,7 @@ export default function Governance(props) {
               alt="Twitter"
             />
           </a>
-          <a href={"https://discord.com/invite/mistswapdex"}>
+          <a href={"https://discord.com/2Q52jB2Rzu"}>
             <img
               src={discordGrey}
               width="30"

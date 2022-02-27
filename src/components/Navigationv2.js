@@ -179,7 +179,7 @@ export default function Navigation() {
         <NavLink href="/governance" active={true}>
           Governance
         </NavLink>
-        <NavLink href="https://discord.com/invite/mistswapdex">Community</NavLink>
+        <NavLink href="https://discord.gg/2Q52jB2Rzu">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
         <NavLink href="https://docs.bch.domains/">Docs</NavLink>
 
@@ -195,7 +195,7 @@ export default function Navigation() {
           <a href="/governance">Governance</a>
         </li>
         <li>
-          <a href="https://discord.com/invite/mistswapdex">Community</a>
+          <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>

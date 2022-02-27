@@ -224,7 +224,7 @@ export default function Navigation() {
 
       <Links menuOpen={menuOpen}>
         <a href="/governance">Governance</a>
-        <a href="https://discord.com/invite/mistswapdex">Community</a>
+        <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
         <Link to="/about">Team</Link>
         <a href="https://docs.bch.domains/">Docs</a>
 
@@ -239,7 +239,7 @@ export default function Navigation() {
           <a href="/governance">Governance</a>
         </li>
         <li>
-          <a href="https://discord.com/invite/mistswapdex">Community</a>
+          <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
