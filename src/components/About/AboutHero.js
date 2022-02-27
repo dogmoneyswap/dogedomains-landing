@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next"
 import mq from "../../mediaQuery"
 
 const Hero = styled("section")`
-  background-image: linear-gradient(90deg, #513eff 0%, #52e5ff 100%);
+  background-image: linear-gradient(90deg, #000 0%, #05153a 100%);
   padding: 40px 20px;
   display: flex;
   justify-content: center;

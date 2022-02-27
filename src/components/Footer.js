@@ -16,7 +16,7 @@ const Logo = styled(DefaultLogo)`
 `
 
 const FooterContainer = styled("footer")`
-  background: #1e3277;
+  background-image: linear-gradient(90deg, #000 0%, #05153a 100%);
   padding: 50px;
   display: flex;
   flex-direction: column;

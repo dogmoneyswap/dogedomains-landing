@@ -19,6 +19,8 @@ const CarouselContainer = styled("div")`
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: linear-gradient(90deg, #000 0%, #05153a 100%);
+  padding-bottom: 2rem;
 
   .slide {
     background: transparent;
@@ -100,7 +102,7 @@ const Bg = styled("div")`
   width: 100%;
   left: 0;
   top: 0;
-  background-image: linear-gradient(90deg, #513eff 0%, #52e5ff 100%);
+  background-image: linear-gradient(90deg, #000 0%, #05153a 100%);
 
   ${mq.medium`
     height: 400px

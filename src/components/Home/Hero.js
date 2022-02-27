@@ -20,7 +20,7 @@ const Title = styled("h2")`
 `
 
 const HeroContainer = styled("div")`
-  background-image: linear-gradient(90deg, #513eff 0%, #52e5ff 100%);
+  background-image: linear-gradient(90deg, #000 0%, #05153a 100%);
   display: flex;
   justify-content: center;
 `

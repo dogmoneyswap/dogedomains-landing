@@ -28,7 +28,7 @@ const links = [
 ]
 
 const Container = styled("div")`
-  background: #253c8f;
+  background: linear-gradient(90deg, #313131 0%, #05153a 100%);
   display: flex;
   flex-direction: column;
   justify-content: center;
