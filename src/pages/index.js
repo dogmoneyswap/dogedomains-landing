@@ -21,7 +21,6 @@ export default function Home(props) {
       <Hero />
       <Carousel />
       <PortableUsername />
-      <Statistics />
       <Cryptocurrencies />
       <DecentralisedWebsites />
       <TraditionalDomains />
