@@ -34,17 +34,19 @@ const social = [
   {
     img: twitter,
     text: "Twitter",
-    link: "https://twitter.com/mistswapdex",
+    link: "https://twitter.com/bchdomains",
   },
+  /*
   {
     img: medium,
     text: "Medium",
-    link: "https://medium.com/@mistswapdex",
+    link: "https://medium.com/@bchdomains",
   },
+  */
   {
     img: github,
     text: "GitHub",
-    link: "https://github.com/mistswapdex",
+    link: "https://github.com/bchdomains",
   },
 ]
 

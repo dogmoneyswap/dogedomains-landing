@@ -19,7 +19,7 @@ const team = [
     name: "Kasumi",
     title: "Solidity Developer",
     img: kasumi,
-    link: "https://twitter.com/mistswapdex",
+    link: "https://github.com/kasumi-1",
   },
 ]
 

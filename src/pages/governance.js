@@ -254,7 +254,7 @@ export default function Governance(props) {
           </ContentInner>
         </Content>
         <Footer>
-          <a href={"https://twitter.com/mistswapdex"}>
+          <a href={"https://twitter.com/bchdomains"}>
             <img
               src={twitterGrey}
               width="34"
