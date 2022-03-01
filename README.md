@@ -1,4 +1,4 @@
-## ENS Homepage V2
+## LNS Homepage
 
 ### Translations
 
