@@ -1,4 +1,18 @@
 {
+  "tango": {
+    "link": "https://tangoswap.cash/",
+    "name": "TangoSwap"
+  },
+  "smartswap": {
+    "link": "https://smartswap.fi/",
+    "name": "SmartSwap",
+    "featuredApp": 5
+  },
+  "emberswap": {
+    "link": "https://emberswap.com/",
+    "name": "EmberSwap",
+    "featuredApp": 4
+  },
   "smartscan": {
     "link": "https://smartscan.cash/",
     "name": "SmartScan",
