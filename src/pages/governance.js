@@ -14,7 +14,7 @@ import mirror from "../assets/mirror.svg"
 import twitterGrey from "../assets/twitterGrey.svg"
 import discordGrey from "../assets/discordGrey.svg"
 import discussGrey from "../assets/discussGrey.svg"
-import whiteENS from "../assets/whiteENS.svg"
+import whiteENS from "../assets/negativeLNS.png"
 import { useTranslation } from "react-i18next"
 
 import "../css/global.css"
