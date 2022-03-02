@@ -1,4 +1,12 @@
 {
+  "tropical": {
+    "link": "https://tropical.finance/",
+    "name": "Tropical Finance"
+  },
+  "1bch": {
+    "link": "https://1bch.com/",
+    "name": "1BCH"
+  },
   "tango": {
     "link": "https://tangoswap.cash/",
     "name": "TangoSwap"
