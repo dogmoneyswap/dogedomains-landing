@@ -52,5 +52,13 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: 'gatsby-plugin-matomo',
+      options: {
+        siteId: 5,
+        matomoUrl: 'https://matomo.mistswap.fi',
+        siteUrl: 'https://bch.domains',
+      },
+    },
   ],
 }
