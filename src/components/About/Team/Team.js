@@ -11,7 +11,7 @@ import { Anchor, AnchorContainer } from "../../Anchor"
 const team = [
   {
     name: "mainnet-pat",
-    title: "Maintainer & Lead Developer",
+    title: "Lead Developer & Maintainer",
     img: mainnet_pat,
     link: "https://github.com/mainnet-pat",
   },

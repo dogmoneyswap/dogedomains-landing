@@ -7,7 +7,7 @@ import { H2, P as DefaultP } from "../../Typography"
 import { Gap } from "../../../utils"
 import { Anchor, AnchorContainer } from "../../Anchor"
 
-import nickAvatar from "./nick.png"
+import nickAvatar from "../../About/Team/photos/mainnet_pat.png"
 import avatar from "./avatar.png"
 
 const HeroContainer = styled("div")`
