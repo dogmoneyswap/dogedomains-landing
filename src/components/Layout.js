@@ -47,6 +47,9 @@ export default function Layout({ children, data, location }) {
         link={[
           { rel: "shortcut icon", type: "image/x-icon", href: `${favicon}` },
         ]}
+        script={[
+          { src: "https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js" },
+        ]}
       />
       <Global
         styles={css`

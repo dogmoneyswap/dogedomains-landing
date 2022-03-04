@@ -145,6 +145,10 @@ const BoxContent = styled("div")`
   ${mq.large`
     padding: 36px;
   `}
+
+  :hover {
+    cursor: pointer;
+  }
 `
 
 const MainBoxContent = styled(BoxContent)`
@@ -182,7 +186,7 @@ const standardBoxData = [
     color: "#4D90F1",
     backgroundColor: "rgba(77, 144, 241, 0.1)",
     borderColor: "#B0D0FF",
-    link: "https://docs.bch.domains/v/governance/",
+    link: "https://docs.bch.domains/tokenomics/",
   },
 ]
 
@@ -225,6 +229,31 @@ const StandardBox = ({
   )
 }
 
+async function claimOnClick() {
+  const tokenAddress = '0xd00981105e61274c8a5cd5a88fe7e037d935b513' // TODO replace with CA
+  const tokenSymbol = 'LNS'
+  const tokenDecimals = 18
+  const tokenImage = '' // TODO replace with token image
+
+  try {
+    // wasAdded is a boolean. Like any RPC method, an error may be thrown.
+    const wasAdded = await window.ethereum.request({
+      method: 'wallet_watchAsset',
+      params: {
+        type: 'ERC20', // Initially only supports ERC20, but eventually more!
+        options: {
+          address: tokenAddress, // The address that the token is at.
+          symbol: tokenSymbol, // A ticker symbol or shorthand, up to 5 chars.
+          decimals: tokenDecimals, // The number of decimals in the token
+          image: tokenImage, // A string url of the token logo
+        }
+      }
+    })
+  } catch (error) {
+    console.log(error)
+  }
+}
+
 export default function Token(props) {
   const { t } = useTranslation()
 
@@ -235,7 +264,7 @@ export default function Token(props) {
         <Content>
           <ContentInner>
             <ContentInnerInner>
-              <MainBox href={"https://app.mistswap.fi/swap"} target={"_blank"}>
+              <MainBox onClick={claimOnClick}>
                 <MainBoxInner>
                   <MainBoxContent>
                     <BoxContentTop>
