@@ -176,8 +176,8 @@ export default function Navigation() {
       </div>
 
       <Links menuOpen={menuOpen}>
-        <NavLink href="/governance" active={true}>
-          Governance
+        <NavLink href="/token" active={true}>
+          Token
         </NavLink>
         <NavLink href="https://discord.gg/2Q52jB2Rzu">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
@@ -192,7 +192,7 @@ export default function Navigation() {
 
       <MobileLinks menuOpen={menuOpen}>
         <li>
-          <a href="/governance">Governance</a>
+          <a href="/token">Token</a>
         </li>
         <li>
           <a href="https://discord.gg/2Q52jB2Rzu">Community</a>

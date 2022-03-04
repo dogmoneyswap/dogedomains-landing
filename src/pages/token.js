@@ -225,7 +225,7 @@ const StandardBox = ({
   )
 }
 
-export default function Governance(props) {
+export default function Token(props) {
   const { t } = useTranslation()
 
   return (

@@ -6,8 +6,8 @@ import twitter from "../assets/twitter.png"
 
 function getTitle(pathname) {
   switch (pathname) {
-    case "/governance":
-      return "Governance"
+    case "/token":
+      return "Token"
     case "/about":
       return "About LNS"
     default:
@@ -51,7 +51,7 @@ export default function Layout({ children, data, location }) {
       <Global
         styles={css`
           html, body, #___gatsby, #gatsby-focus-wrapper {
-            height: ${location?.pathname === '/governance' ? '100%' : 'initial'};
+            height: ${location?.pathname === '/token' ? '100%' : 'initial'};
           }
           body {
             font-family: Overpass;
