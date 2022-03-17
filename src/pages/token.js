@@ -230,10 +230,10 @@ const StandardBox = ({
 }
 
 async function claimOnClick() {
-  const tokenAddress = '0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25' // TODO replace with CA
+  const tokenAddress = '0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f'
   const tokenSymbol = 'LNS'
   const tokenDecimals = 18
-  const tokenImage = 'https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25/logo.png' // TODO replace with token image
+  const tokenImage = 'https://assets.mistswap.fi/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png'
 
   try {
     // wasAdded is a boolean. Like any RPC method, an error may be thrown.
