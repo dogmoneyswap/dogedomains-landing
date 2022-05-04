@@ -187,7 +187,6 @@ export default function Ecosystem(props) {
           <Anchor />
         </H2>
       </AnchorContainer>
-      {/*
       <Section>
         <h3>
           <img src={walletSvg} alt="wallet svg" />
@@ -204,7 +203,6 @@ export default function Ecosystem(props) {
             : `${t("home.ecosystem.seeMore")} +`}
         </More>
       </Section>
-      */}
       <Section>
         <h3>
           <img src={appSvg} alt="app svg" />

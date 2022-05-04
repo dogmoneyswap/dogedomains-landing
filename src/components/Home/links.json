@@ -1,4 +1,8 @@
 {
+  "paytaca": {
+    "link": "https://www.paytaca.com/",
+    "name": "Paytaca"
+  },
   "tropical": {
     "link": "https://tropical.finance/",
     "name": "Tropical Finance"
