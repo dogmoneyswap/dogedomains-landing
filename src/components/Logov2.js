@@ -1,10 +1,10 @@
 import React from "react"
 import styled from "@emotion/styled"
-import logo from "../assets/ensLogov2.svg"
+import logo from "../assets/logo-lightbg.png"
 
 const LogoContainer = styled("div")`
   .ens-logo {
-    width: 104px;
+    width: 128px;
     margin-right: 10px;
   }
 `

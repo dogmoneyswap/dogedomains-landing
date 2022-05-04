@@ -15,6 +15,7 @@
       "search": "search",
       "manage": "manage",
       "register": "register",
+      "stake": "stake",
       "launch": "Launch app"
     },
     "portableUsername": {

@@ -23,6 +23,10 @@
     "link": "https://tangoswap.cash/",
     "name": "TangoSwap"
   },
+  "benswap": {
+    "link": "https://benswap.cash/",
+    "name": "BenSwap"
+  },
   "smartswap": {
     "link": "https://smartswap.fi/",
     "name": "SmartSwap",

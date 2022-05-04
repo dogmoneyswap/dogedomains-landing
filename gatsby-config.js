@@ -53,17 +53,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-matomo',
       options: {
-        trackingId: "UA-101611202-2",
-        // Puts tracking script in the head instead of the body
-        head: false,
-        // Setting this parameter is optional
-        anonymize: true,
-        // Setting this parameter is also optional
-        respectDNT: true,
-        // Avoids sending pageview hits from custom paths
-        exclude: [],
+        siteId: 5,
+        matomoUrl: 'https://matomo.mistswap.fi',
+        siteUrl: 'https://bch.domains',
       },
     },
   ],

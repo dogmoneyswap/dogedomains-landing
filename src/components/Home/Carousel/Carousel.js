@@ -6,9 +6,11 @@ import { Carousel } from "react-responsive-carousel"
 import manageImg from "./manage.png"
 import searchImg from "./search.png"
 import registerImg from "./register.png"
+import stakeImg from "./stake.png"
 import ManageIcon from "./ManageIcon"
 import SearchIcon from "./SearchIcon"
 import RegisterIcon from "./RegisterIcon"
+// import StakeIcon from "./StakeIcon"
 
 import { Button } from "../../Typography"
 
@@ -169,6 +171,16 @@ const customRenderThumb = ({ children, t }) => {
         </React.Fragment>
       )
     }
+    {/*
+    if (i === 3) {
+      return (
+        <React.Fragment key={i}>
+          <StakeIcon />
+          <Title>{t("home.carousel.stake")}</Title>
+          <Dot className="dot" />
+        </React.Fragment>
+      )
+    }*/}
 
     return null
   })
@@ -196,6 +208,11 @@ export default function HeroCarousel(props) {
         <Slide>
           <img src={manageImg} alt={t("manage")} />
         </Slide>
+        {/*
+        <Slide>
+          <img src={stakeImg} alt={t("stake")} />
+        </Slide>
+        */}
       </Carousel>
       <Launch href="https://app.bch.domains">
         {t("home.carousel.launch")}

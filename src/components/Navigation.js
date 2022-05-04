@@ -223,7 +223,7 @@ export default function Navigation() {
       </div>
 
       <Links menuOpen={menuOpen}>
-        <a href="/governance">Governance</a>
+        <a href="/token">Token</a>
         <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
         <Link to="/about">Team</Link>
         <a href="https://docs.bch.domains/">Docs</a>
@@ -236,7 +236,7 @@ export default function Navigation() {
       <MobileLinks menuOpen={menuOpen}>
         <LanguageSwitcher mobile={true} />
         <li>
-          <a href="/governance">Governance</a>
+          <a href="/token">Token</a>
         </li>
         <li>
           <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
