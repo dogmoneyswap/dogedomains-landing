@@ -1,4 +1,8 @@
 {
+  "benswap": {
+    "link": "https://benswap.cash/",
+    "name": "BenSwap"
+  },
   "paytaca": {
     "link": "https://www.paytaca.com/",
     "name": "Paytaca"
