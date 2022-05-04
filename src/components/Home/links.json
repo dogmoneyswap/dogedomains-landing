@@ -3,6 +3,10 @@
     "link": "https://www.paytaca.com/",
     "name": "Paytaca"
   },
+  "electroncash": {
+    "link": "https://electroncash.org/",
+    "name": "Electron Cash"
+  },
   "tropical": {
     "link": "https://tropical.finance/",
     "name": "Tropical Finance"
