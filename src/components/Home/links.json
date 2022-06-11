@@ -27,19 +27,27 @@
     "link": "https://benswap.cash/",
     "name": "BenSwap"
   },
+  "smartscan": {
+    "link": "https://smartscan.cash/",
+    "name": "SmartScan"
+  },
+  "emberswap": {
+    "link": "https://emberswap.com/",
+    "name": "EmberSwap"
+  },
   "smartswap": {
     "link": "https://smartswap.fi/",
     "name": "SmartSwap",
     "featuredApp": 5
   },
-  "emberswap": {
-    "link": "https://emberswap.com/",
-    "name": "EmberSwap",
+  "smartsafe": {
+    "link": "https://smartsafe.cash/",
+    "name": "Smart Safe",
     "featuredApp": 4
   },
-  "smartscan": {
-    "link": "https://smartscan.cash/",
-    "name": "SmartScan",
+  "sonar": {
+    "link": "https://sonar.cash/",
+    "name": "Sonar",
     "featuredApp": 3
   },
   "oasis": {
