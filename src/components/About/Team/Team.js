@@ -6,6 +6,7 @@ import mq from "../../../mediaQuery"
 
 import mainnet_pat from "./photos/mainnet_pat.png"
 import kasumi from "./photos/kasumi.png"
+import gilgames from "./photos/gilgames.png"
 import { Anchor, AnchorContainer } from "../../Anchor"
 
 const team = [
@@ -20,6 +21,12 @@ const team = [
     title: "Solidity Developer",
     img: kasumi,
     link: "https://github.com/kasumi-1",
+  },
+  {
+    name: "Gilgameš",
+    title: "Developer & Web3 Tinkerer",
+    img: gilgames,
+    link: "https://github.com/gilgames000",
   },
 ]
 
