@@ -9,9 +9,9 @@ function getTitle(pathname) {
     case "/token":
       return "Token"
     case "/about":
-      return "About LNS"
+      return "About ĐNS"
     default:
-      return "Bitcoin Cash Name Service"
+      return "ĐogeChain Name Service"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "LNS, BCH, ENS, Bitcoin Cash, Bitcoin Cash Name Service, .bch domains, blockchain domains, ENS on smartBCH",
+              "ĐNS, LNS, ENS, DogeChain, DogeChain Name Service, .doge domains, blockchain domains, ENS on DogeChain",
           },
           {
             name: "twitter:card",
@@ -36,11 +36,11 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "Bitcoin Cash Name Service",
+            content: "ĐogeChain Name Service",
           },
           {
             property: "og:image",
-            content: `https://bch.domains${twitter}`,
+            content: `https://dogedomains.wf${twitter}`,
           },
         ]}
         title={getTitle(location.pathname)}
