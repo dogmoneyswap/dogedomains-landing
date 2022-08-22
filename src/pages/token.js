@@ -178,7 +178,7 @@ const standardBoxData = [
     color: "#854BFF",
     backgroundColor: "#E1DAF7",
     borderColor: "#C0B2EA",
-    link: "https://discord.gg/2Q52jB2Rzu",
+    link: "https://discord.gg/SMRdBNkeaa",
   },
   {
     icon: governance,
@@ -231,7 +231,7 @@ const StandardBox = ({
 
 async function claimOnClick() {
   const tokenAddress = '0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f'
-  const tokenSymbol = 'LNS'
+  const tokenSymbol = 'ĐNS'
   const tokenDecimals = 18
   const tokenImage = 'https://assets.mistswap.fi/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png'
 
@@ -283,7 +283,7 @@ export default function Token(props) {
           </ContentInner>
         </Content>
         <Footer>
-          <a href={"https://twitter.com/bchdomains"}>
+          <a href={"https://twitter.com/NameServiceDoge"}>
             <img
               src={twitterGrey}
               width="34"
@@ -291,7 +291,7 @@ export default function Token(props) {
               alt="Twitter"
             />
           </a>
-          <a href={"https://discord.com/2Q52jB2Rzu"}>
+          <a href={"https://discord.com/SMRdBNkeaa"}>
             <img
               src={discordGrey}
               width="30"

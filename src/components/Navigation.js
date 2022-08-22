@@ -224,13 +224,13 @@ export default function Navigation() {
 
       <Links menuOpen={menuOpen}>
         <a href="/token">Token</a>
-        <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
+        <a href="https://discord.gg/SMRdBNkeaa">Community</a>
         <Link to="/about">Team</Link>
         <a href="https://docs.bch.domains/">Docs</a>
 
         <Separator />
         <LanguageSwitcher />
-        <Launch href="https://app.bch.domains">{t("nav.launch")}</Launch>
+        <Launch href="https://app.dogedomains.wf">{t("nav.launch")}</Launch>
       </Links>
 
       <MobileLinks menuOpen={menuOpen}>
@@ -239,7 +239,7 @@ export default function Navigation() {
           <a href="/token">Token</a>
         </li>
         <li>
-          <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
+          <a href="https://discord.gg/SMRdBNkeaa">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
@@ -248,7 +248,7 @@ export default function Navigation() {
           <a href="https://docs.bch.domains/">Docs</a>
         </li>
         <li>
-          <Launch href="https://app.bch.domains">{t("nav.launch")}</Launch>
+          <Launch href="https://app.dogedomains.wf">{t("nav.launch")}</Launch>
         </li>
       </MobileLinks>
     </Nav>

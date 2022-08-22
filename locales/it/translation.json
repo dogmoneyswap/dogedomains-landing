@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "Un solo Dominio Per Tutti i tuoi Indirizzi",
-      "text": "Niente più copia e incolla di lunghi indirizzi. Usa il tuo nome di dominio LNS per tutti i tuoi indirizzi e ricevere qualsiasi criptovaluta, token o NFT."
+      "text": "Niente più copia e incolla di lunghi indirizzi. Usa il tuo nome di dominio ĐNS per tutti i tuoi indirizzi e ricevere qualsiasi criptovaluta, token o NFT."
     },
     "statistics": {
-      "title": "LNS è lo standard blockchain più ampiamente integrato.",
+      "title": "ĐNS è lo standard blockchain più ampiamente integrato.",
       "names": "Domini",
       "services": "Integrazioni",
       "owners": "Proprietari"
     },
     "decentralisedWebsites": {
       "title": "Siti Web decentralizzati",
-      "text": "Avvia siti Web decentralizzati resistenti alla censura con LNS. Carica il tuo sito web su IPFS e accedi con il tuo dominio LNS."
+      "text": "Avvia siti Web decentralizzati resistenti alla censura con ĐNS. Carica il tuo sito web su IPFS e accedi con il tuo dominio ĐNS."
     },
     "dns": {
       "title": "Usa Domini tradizionali",
-      "text1": "Il suffisso del dominio nativo LNS è .BCH, che ha tutti i vantaggi di sicurezza nativi della blockchain.",
-      "text2": "Puoi anche utilizzare LNS con i nomi di dominio DNS in tuo possesso. LNS supporta molti DNS, tra cui:"
+      "text1": "Il suffisso del dominio nativo ĐNS è .DOGE, che ha tutti i vantaggi di sicurezza nativi della blockchain.",
+      "text2": "Puoi anche utilizzare ĐNS con i nomi di dominio DNS in tuo possesso. ĐNS supporta molti DNS, tra cui:"
     },
     "ecosystem": {
-      "title": "Ecosistema LNS",
+      "title": "Ecosistema ĐNS",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -52,11 +52,11 @@
       "title": "Caratteristiche aggiuntive",
       "recordType": "Crea il tuo record type personale per il tuo progetto.",
 
-      "textRecord": "Allega le informazioni del profilo al tuo dominio LNS con dei record testuali.",
+      "textRecord": "Allega le informazioni del profilo al tuo dominio ĐNS con dei record testuali.",
 
-      "subDomains": "Crea sottodomini LNS come nomi utente per il tuo progetto.",
+      "subDomains": "Crea sottodomini ĐNS come nomi utente per il tuo progetto.",
       "dns": "Memorizza e fornisci i record DNS tradizionali con determinati nomi.",
-      "tor": "Usa LNS per accedere più facilmente ai servizi nascosti Tor .onion.",
+      "tor": "Usa ĐNS per accedere più facilmente ai servizi nascosti Tor .onion.",
       "erc721": "I nomi .BCH sono NFT conformi a ERC721."
     },
     "getInvolved": {
@@ -81,22 +81,22 @@
   },
   "about": {
     "hero": "smartBCH Name Service è un protocollo di naming open source basato su blockchain.",
-    "aboutLNS": {
-      "title": "Info su LNS",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+    "aboutDNS": {
+      "title": "Info su ĐNS",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "Abbiamo ricevuto un generoso sostegno da:",
-      "support2": "I rappresentanti di LNS partecipano alla più vasta comunità di Internet:"
+      "support2": "I rappresentanti di ĐNS partecipano alla più vasta comunità di Internet:"
     },
     "team": {
       "title": "Incontra il team"
     },
     "benefits": {
       "title": "Vantaggi di smartBCH",
-      "text": "Sebbene supporti una vasta gamma di risorse non-smartBCH, LNS utilizza la blockchain smartBCH. Questo porta tutti i vantaggi della decentralizzazione, sicurezza, resistenza alla censura e programmabilità della blockchain smartBCH ai Domain Name Internet, abilitando nuove funzionalità come l'auto-custodia, la componibilità nel più ampio ecosistema di smart contract smartBCH, e altro ancora."
+      "text": "Sebbene supporti una vasta gamma di risorse non-smartBCH, ĐNS utilizza la blockchain smartBCH. Questo porta tutti i vantaggi della decentralizzazione, sicurezza, resistenza alla censura e programmabilità della blockchain smartBCH ai Domain Name Internet, abilitando nuove funzionalità come l'auto-custodia, la componibilità nel più ampio ecosistema di smart contract smartBCH, e altro ancora."
     },
     "root": {
-      "title": "Gestire la root LNS",
-      "text": "Per facilitare la possibilità di aggiornamenti, manutenzione e - in circostanze eccezionali - per gestire problemi, la root LNS è inizialmente di proprietà di un wallet multisig four-of-seven, composto da membri di progetti correlati titolari delle chiavi. A lungo termine vorremmo che il multisig fosse sostituito da una qualche forma di processo decisionale distribuito, non appena tali sistemi saranno disponibili e fruibili."
+      "title": "Gestire la root ĐNS",
+      "text": "Per facilitare la possibilità di aggiornamenti, manutenzione e - in circostanze eccezionali - per gestire problemi, la root ĐNS è inizialmente di proprietà di un wallet multisig four-of-seven, composto da membri di progetti correlati titolari delle chiavi. A lungo termine vorremmo che il multisig fosse sostituito da una qualche forma di processo decisionale distribuito, non appena tali sistemi saranno disponibili e fruibili."
     }
   }
 }

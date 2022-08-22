@@ -57,7 +57,7 @@ module.exports = {
       options: {
         siteId: 10,
         matomoUrl: 'https://matomo.mistswap.fi',
-        siteUrl: 'https://bch.domains',
+        siteUrl: 'https://dogedomains.wf',
       },
     },
   ],

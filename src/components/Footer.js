@@ -34,7 +34,7 @@ const social = [
   {
     img: twitter,
     text: "Twitter",
-    link: "https://twitter.com/bchdomains",
+    link: "https://twitter.com/NameServiceDoge",
   },
   /*
   {
@@ -46,7 +46,7 @@ const social = [
   {
     img: github,
     text: "GitHub",
-    link: "https://github.com/bchdomains",
+    link: "https://github.com/dogmoneyswap",
   },
 ]
 

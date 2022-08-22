@@ -1,7 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import { Global, css } from "@emotion/core"
-import favicon from "../assets/favicon.ico"
+import favicon from "../assets/favicon.png"
 import twitter from "../assets/twitter.png"
 
 function getTitle(pathname) {
@@ -11,7 +11,7 @@ function getTitle(pathname) {
     case "/about":
       return "About ĐNS"
     default:
-      return "ĐogeChain Name Service"
+      return "Đoge Name Service"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "ĐNS, LNS, ENS, DogeChain, DogeChain Name Service, .doge domains, blockchain domains, ENS on DogeChain",
+              "ĐNS, DOGE, ENS, DogeChain, Doge Name Service, .doge domains, blockchain domains, ENS on DogeChain",
           },
           {
             name: "twitter:card",
@@ -36,7 +36,7 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "ĐogeChain Name Service",
+            content: "Đoge Name Service",
           },
           {
             property: "og:image",

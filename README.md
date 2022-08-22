@@ -1,4 +1,4 @@
-## LNS Homepage
+## ĐNS Homepage
 
 ### Translations
 

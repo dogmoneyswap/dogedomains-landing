@@ -179,13 +179,13 @@ export default function Navigation() {
         <NavLink href="/token" active={true}>
           Token
         </NavLink>
-        <NavLink href="https://discord.gg/2Q52jB2Rzu">Community</NavLink>
+        <NavLink href="https://discord.gg/SMRdBNkeaa">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
         <NavLink href="https://docs.bch.domains/">Docs</NavLink>
 
         <Separator />
         <LanguageSwitcher />
-        <a href="https://app.bch.domains">
+        <a href="https://app.dogedomains.wf">
           <Launch style={{ opacity: 1 }} text={t("nav.launch")} />
         </a>
       </Links>
@@ -195,7 +195,7 @@ export default function Navigation() {
           <a href="/token">Token</a>
         </li>
         <li>
-          <a href="https://discord.gg/2Q52jB2Rzu">Community</a>
+          <a href="https://discord.gg/SMRdBNkeaa">Community</a>
         </li>
         <li>
           <Link to="/about">Team</Link>
@@ -204,7 +204,7 @@ export default function Navigation() {
           <a href="https://docs.bch.domains/">Docs</a>
         </li>
         <li>
-          <a href="https://app.bch.domains">
+          <a href="https://app.dogedomains.wf">
             <Launch text={t("nav.launch")} />
           </a>
         </li>

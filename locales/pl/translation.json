@@ -1,19 +1,19 @@
 {
   "about": {
-    "aboutLNS": {
+    "aboutDNS": {
       "support": "Otrzymaliśmy hojne wsparcie od:",
-      "support2": "Przedstawiciele LNS uczestniczą w większej społeczności internetowej:",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
-      "title": "Informacje o LNS"
+      "support2": "Przedstawiciele ĐNS uczestniczą w większej społeczności internetowej:",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "title": "Informacje o ĐNS"
     },
     "benefits": {
-      "text": "Chociaż obsługuje szeroką gamę aktywów innych niż smartBCH, LNS działa na blockchainie smartBCH. Daje to korzyści płynące z decentralizacji, bezpieczeństwa, odporności na cenzurę i programowalności łańcucha bloków smartBCH do nazewnictwa internetowego, umożliwiając nowe rozwiązania, takie jak samodzielna opieka nad aktywami, możliwość komponowania w większym ekosystemie smart kontraktów smartBCH i nie tylko.",
+      "text": "Chociaż obsługuje szeroką gamę aktywów innych niż smartBCH, ĐNS działa na blockchainie smartBCH. Daje to korzyści płynące z decentralizacji, bezpieczeństwa, odporności na cenzurę i programowalności łańcucha bloków smartBCH do nazewnictwa internetowego, umożliwiając nowe rozwiązania, takie jak samodzielna opieka nad aktywami, możliwość komponowania w większym ekosystemie smart kontraktów smartBCH i nie tylko.",
       "title": "Korzyści z smartBCH"
     },
     "hero": "Usługa nazw smartBCH jest protokołem nazewnictwa opartym na blockchainie typu open source.",
     "root": {
-      "text": "Aby ułatwić możliwość aktualizacji i konserwacji, a także w wyjątkowych okolicznościach rozwiązanie problemów z LNS, katalog główny LNS jest początkowo własnością czwórki z siedmiu multisigów, z członkami powiązanych projektów jako kluczowymi osobami. W dłuższej perspektywie chcielibyśmy, aby główny multisig został zastąpiony formą rozproszonego procesu decyzyjnego, gdy takie systemy staną się rzeczywistością.",
-      "title": "Zarządzanie root'em LNS"
+      "text": "Aby ułatwić możliwość aktualizacji i konserwacji, a także w wyjątkowych okolicznościach rozwiązanie problemów z ĐNS, katalog główny ĐNS jest początkowo własnością czwórki z siedmiu multisigów, z członkami powiązanych projektów jako kluczowymi osobami. W dłuższej perspektywie chcielibyśmy, aby główny multisig został zastąpiony formą rozproszonego procesu decyzyjnego, gdy takie systemy staną się rzeczywistością.",
+      "title": "Zarządzanie root'em ĐNS"
     },
     "team": {
       "title": "Poznaj drużynę"
@@ -25,12 +25,12 @@
   "home": {
     "additionalFeatures": {
       "dns": "Przechowuj i udostępniaj tradycyjne rekordy DNS z określonymi nazwami.",
-      "erc721": "Nazwy .BCH to NFT zgodne ze standardem ERC721.",
+      "erc721": "Nazwy .DOGE to NFT zgodne ze standardem ERC721.",
       "recordType": "Utwórz własny typ rekordu projektu.",
-      "subDomains": "Utwórz subdomeny LNS jako nazwy użytkowników dla swojego projektu.",
-      "textRecord": "Dołącz informacje profilowe do swojego adresu LNS z rekordami tekstowymi.",
+      "subDomains": "Utwórz subdomeny ĐNS jako nazwy użytkowników dla swojego projektu.",
+      "textRecord": "Dołącz informacje profilowe do swojego adresu ĐNS z rekordami tekstowymi.",
       "title": "Dodatkowe Funkcje",
-      "tor": "Użyj LNS, aby szybciej uzyskać dostęp do ukrytych usług Tor .onion."
+      "tor": "Użyj ĐNS, aby szybciej uzyskać dostęp do ukrytych usług Tor .onion."
     },
     "carousel": {
       "launch": "Uruchom Aplikację",
@@ -43,16 +43,16 @@
       "text": "No more sandboxed usernames. Own your username, store an avatar and other profile data, and use it across services."
     },
     "cryptocurrencies": {
-      "text": "Koniec z kopiowaniem i wklejaniem długich adresów. Użyj swojej nazwy LNS, aby przechowywać wszystkie swoje adresy i otrzymywać płatności w dowolnej kryptowalucie.",
+      "text": "Koniec z kopiowaniem i wklejaniem długich adresów. Użyj swojej nazwy ĐNS, aby przechowywać wszystkie swoje adresy i otrzymywać płatności w dowolnej kryptowalucie.",
       "title": "Jeden Adres Dla Wszystkich Twoich Kryptowalut"
     },
     "decentralisedWebsites": {
-      "text": "Uruchom odporne na cenzurę zdecentralizowane strony internetowe z LNS. Prześlij swoją witrynę do IPFS w naszym menedżerze i uzyskaj do niej dostęp za pomocą nazwy LNS.",
+      "text": "Uruchom odporne na cenzurę zdecentralizowane strony internetowe z ĐNS. Prześlij swoją witrynę do IPFS w naszym menedżerze i uzyskaj do niej dostęp za pomocą nazwy ĐNS.",
       "title": "Zdecentralizowane Strony Internetowe"
     },
     "dns": {
-      "text1": "Natywnym przyrostkiem nazwy dla LNS jest .BCH, który ma pełne zalety bezpieczeństwa wynikające z bycia natywnym dla blockchain.",
-      "text2": "Możesz także używać LNS z nazwami DNS, które już posiadasz. LNS obsługuje wiele nazw DNS, w tym:",
+      "text1": "Natywnym przyrostkiem nazwy dla ĐNS jest .BCH, który ma pełne zalety bezpieczeństwa wynikające z bycia natywnym dla blockchain.",
+      "text2": "Możesz także używać ĐNS z nazwami DNS, które już posiadasz. ĐNS obsługuje wiele nazw DNS, w tym:",
       "title": "Użyj Tradycyjnych Domen"
     },
     "ecosystem": {
@@ -60,7 +60,7 @@
       "browsers": "Wyszukiwarki",
       "seeLess": "Zobacz Mniej",
       "seeMore": "Zobacz Więcej",
-      "title": "Ekosystem LNS",
+      "title": "Ekosystem ĐNS",
       "wallets": "Portfele"
     },
     "getInvolved": {
@@ -89,7 +89,7 @@
       "names": "Nazwy",
       "owners": "Właściciele",
       "services": "Integracje",
-      "title": "LNS to najpowszechniej zintegrowany standard nazewnictwa blockchain."
+      "title": "ĐNS to najpowszechniej zintegrowany standard nazewnictwa blockchain."
     }
   },
   "nav": {

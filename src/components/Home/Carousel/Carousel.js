@@ -214,7 +214,7 @@ export default function HeroCarousel(props) {
         </Slide>
         */}
       </Carousel>
-      <Launch href="https://app.bch.domains">
+      <Launch href="https://app.dogedomains.wf">
         {t("home.carousel.launch")}
       </Launch>
     </CarouselContainer>

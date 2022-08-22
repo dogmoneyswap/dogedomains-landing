@@ -86,13 +86,13 @@ export default function AboutENS(props) {
     <AboutENSContainer id="about-ens">
       <AnchorContainer href={"#about-ens"}>
         <h3>
-          {t("about.aboutLNS.title")}
+          {t("about.aboutDNS.title")}
           <Anchor />
         </h3>
       </AnchorContainer>
 
       <p className="prelede">
-        {t("about.aboutLNS.text")}
+        {t("about.aboutDNS.text")}
       </p>
     </AboutENSContainer>
   )
