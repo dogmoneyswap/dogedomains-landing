@@ -24,25 +24,25 @@
     },
     "cryptocurrencies": {
       "title": "One Name For All of Your Addresses",
-      "text": "No more copying and pasting long addresses. Use your LNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
+      "text": "No more copying and pasting long addresses. Use your ĐNS name to store all of your addresses and receive any cryptocurrency, token, or NFT."
     },
     "statistics": {
-      "title": "LNS is the most widely integrated blockchain naming standard.",
+      "title": "ĐNS is the most widely integrated blockchain naming standard on DogeChain.",
       "names": "Names",
       "services": "Integrations",
       "owners": "Owners"
     },
     "decentralisedWebsites": {
       "title": "Decentralised Websites",
-      "text": "Launch censorship-resistant decentralised websites with LNS. Upload your website to IPFS and access it with your LNS name."
+      "text": "Launch censorship-resistant decentralised websites with ĐNS. Upload your website to IPFS and access it with your ĐNS name."
     },
     "dns": {
       "title": "Use Traditional Domains",
-      "text1": "The native name suffix for LNS is .BCH, which has the full security benefits of being blockchain-native.",
-      "text2": "You can also use LNS with DNS names you already own. LNS supports most DNS names, including:"
+      "text1": "The native name suffix for ĐNS is .doge, which has the full security benefits of being blockchain-native.",
+      "text2": "You can also use ĐNS with DNS names you already own. ĐNS supports most DNS names, including:"
     },
     "ecosystem": {
-      "title": "LNS Ecosystem",
+      "title": "ĐNS Ecosystem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -53,11 +53,11 @@
       "title": "Additional Features",
       "recordType": "Create your project’s own record type.",
 
-      "textRecord": "Attach profile information to your LNS name with text records.",
+      "textRecord": "Attach profile information to your ĐNS name with text records.",
 
-      "subDomains": "Create LNS subdomains as usernames for your project.",
+      "subDomains": "Create ĐNS subdomains as usernames for your project.",
       "dns": "Store and serve traditional DNS records with certain names.",
-      "tor": "Use LNS to more easily access Tor .onion hidden services.",
+      "tor": "Use ĐNS to more easily access Tor .onion hidden services.",
       "erc721": ".BCH names are ERC721-compliant NFTs."
     },
     "getInvolved": {
@@ -81,27 +81,27 @@
     }
   },
   "about": {
-    "hero": "The Bitcoin Cash Name Service is an open source blockchain-based naming protocol.",
+    "hero": "The ĐogeChain Name Service is an open source blockchain-based naming protocol.",
     "aboutLNS": {
-      "title": "About LNS",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "title": "About ĐNS",
+      "text": "ĐNS forked from LNS onto DogeChain with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
-      "support2": "Representatives of LNS participate in the greater Internet community:"
+      "support2": "Representatives of ĐNS participate in the greater Internet community:"
     },
     "team": {
       "title": "Meet the team"
     },
     "benefits": {
-      "title": "Benefits of Bitcoin Cash",
-      "text": "Though it supports a wide range of non-smartBCH assets, LNS runs on the smartBCH blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the smartBCH blockchain to Internet naming, enabling new features like self-custody, composability in the greater smartBCH smart-contract ecosystem, and more."
+      "title": "Benefits of DogeChain",
+      "text": "Though it supports a wide range of non-DogeChain assets, ĐNS runs on the DogeChain blockchain. This brings the benefits of decentralization, security, censorship-resistance, and programmability of the DogeChain blockchain to Internet naming, enabling new features like self-custody, composability in the greater DogeChain smart-contract ecosystem, and more."
     },
     "root": {
-      "title": "Managing the LNS root",
-      "text": "To facilitate the possibility of upgrades and maintenance, the LNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
+      "title": "Managing the ĐNS root",
+      "text": "To facilitate the possibility of upgrades and maintenance, the ĐNS root is controlled by a four of seven multisig, with members of related projects as keyholders. In the long term, we would like the root multisig to be replaced by some form of distributed decision making process, as such systems become available."
     }
   },
   "governance": {
-    "claim": "Claim your $LNS",
+    "claim": "Claim your $ĐNS",
     "discord": "Chat on Discord",
     "discuss": "Join the forum",
     "governance": "Documentation",
