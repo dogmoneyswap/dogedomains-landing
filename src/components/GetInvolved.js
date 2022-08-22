@@ -16,7 +16,7 @@ const links = [
     img: community,
     text: "Join our Discord community",
     cta: "Join Discord",
-    link: "https://discord.gg/2Q52jB2Rzu",
+    link: "https://discord.gg/SMRdBNkeaa",
   },
   {
     name: "documentation",

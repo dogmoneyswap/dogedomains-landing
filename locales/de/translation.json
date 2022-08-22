@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "Ein Name für alle Ihre Kryptowährungen",
-      "text": "Kein Kopieren und Eintippen langer Adressen mehr. Benutzen Sie LNS-Namen, um alle Ihre Adressen zu speichern und Zahlungen in jeder beliebigen Kryptowährung zu erhalten."
+      "text": "Kein Kopieren und Eintippen langer Adressen mehr. Benutzen Sie ĐNS-Namen, um alle Ihre Adressen zu speichern und Zahlungen in jeder beliebigen Kryptowährung zu erhalten."
     },
     "statistics": {
-      "title": "LNS ist der am weitesten verbreitete Standard für die Vergabe von Namen auf Blockchains.",
+      "title": "ĐNS ist der am weitesten verbreitete Standard für die Vergabe von Namen auf Blockchains.",
       "names": "Namen",
       "services": "Integrationen",
       "owners": "Besitzer"
     },
     "decentralisedWebsites": {
       "title": "Dezentralisierte Webseiten",
-      "text": "Erstellen Sie zensurgeschützte dezentralisierte Webseiten mit LNS. Laden Sie Ihre Website in unserem Manager in das IPFS-Netzwerk hoch und greifen Sie mit Ihrem LNS-Namen darauf zu."
+      "text": "Erstellen Sie zensurgeschützte dezentralisierte Webseiten mit ĐNS. Laden Sie Ihre Website in unserem Manager in das IPFS-Netzwerk hoch und greifen Sie mit Ihrem ĐNS-Namen darauf zu."
     },
     "dns": {
       "title": "Herkömmliche Domains verwenden",
-      "text1": "Der native Domainsuffix für LNS ist .BCH, was die vollen Sicherheitsvorteile mit sich bringt, da dieser Blockchain-basiert ist.",
-      "text2": "Sie können LNS auch mit Domains verwenden, die Sie bereits besitzen. LNS unterstützt viele Domains, darunter:"
+      "text1": "Der native Domainsuffix für ĐNS ist .DOGE, was die vollen Sicherheitsvorteile mit sich bringt, da dieser Blockchain-basiert ist.",
+      "text2": "Sie können ĐNS auch mit Domains verwenden, die Sie bereits besitzen. ĐNS unterstützt viele Domains, darunter:"
     },
     "ecosystem": {
-      "title": "LNS Ökosystem",
+      "title": "ĐNS Ökosystem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browser",
@@ -52,11 +52,11 @@
       "title": "Zusätzliche Features",
       "recordType": "Erstellen Sie einen eigenen Datensatz-Typ für Ihr Projekt.",
 
-      "textRecord": "Fügen Sie Ihrem LNS-Namen Profilinformationen mit Texteinträgen hinzu..",
+      "textRecord": "Fügen Sie Ihrem ĐNS-Namen Profilinformationen mit Texteinträgen hinzu..",
 
-      "subDomains": "Erstellen Sie LNS-Subdomains als Benutzernamen für Ihr Projekt.",
+      "subDomains": "Erstellen Sie ĐNS-Subdomains als Benutzernamen für Ihr Projekt.",
       "dns": "Speichern und nutzen Sie traditionelle DNS Records mit bestimmten Domains.",
-      "tor": "Verwenden Sie LNS, um leichter auf die versteckten Dienste von Tor .onion zuzugreifen.",
+      "tor": "Verwenden Sie ĐNS, um leichter auf die versteckten Dienste von Tor .onion zuzugreifen.",
       "erc721": ".BCH Domains sind ERC721-konforme NFTs."
     },
     "getInvolved": {
@@ -81,22 +81,22 @@
   },
   "about": {
     "hero": "Der smartBCH Name Service ist ein Blockchain-basiertes Open-Source-Namensprotokoll.",
-    "aboutLNS": {
-      "title": "Über LNS",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+    "aboutDNS": {
+      "title": "Über ĐNS",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "Wir haben großzügige Unterstützung erhalten von:",
-      "support2": "Vertreter des LNS wirken an der großen Internet-Community mit:"
+      "support2": "Vertreter des ĐNS wirken an der großen Internet-Community mit:"
     },
     "team": {
       "title": "Lernen Sie das Team kennen"
     },
     "benefits": {
       "title": "Vorteile von smartBCH",
-      "text": "Obwohl LNS eine breite Auswahl von Assets unterstützt, die nicht smartBCH-basiert sind, läuft LNS auf der smartBCH-Blockchain. Dies bringt die Vorteile der Dezentralisierung, Sicherheit, des Widerstandes gegen Zensur und der Programmierbarkeit der smartBCH-Blockchain für die Namensvergabe im Internet mit sich und ermöglicht neue Funktionen wie der Selbstverwaltung, der Kombinierbarkeit im erweiterten smartBCH-Ökosystem mit Smart Contracts und vielem mehr."
+      "text": "Obwohl ĐNS eine breite Auswahl von Assets unterstützt, die nicht smartBCH-basiert sind, läuft ĐNS auf der smartBCH-Blockchain. Dies bringt die Vorteile der Dezentralisierung, Sicherheit, des Widerstandes gegen Zensur und der Programmierbarkeit der smartBCH-Blockchain für die Namensvergabe im Internet mit sich und ermöglicht neue Funktionen wie der Selbstverwaltung, der Kombinierbarkeit im erweiterten smartBCH-Ökosystem mit Smart Contracts und vielem mehr."
     },
     "root": {
-      "title": "Verwaltung der LNS-Root",
-      "text": "Um die Möglichkeit von Upgrades und Wartungsarbeiten zu erleichtern und in Ausnahmefällen Probleme mit LNS zu bewältigen, befindet sich die LNS-Root zunächst im Besitz eines Vier- oder Sieben-Multisigs, mit Mitgliedern verwandter Projekte als Schlüsselinhabern. Langfristig möchten wir, dass die Root-Multisig durch eine Form der verteilten Entscheidungsfindung ersetzt wird, sobald solche Systeme verfügbar sind."
+      "title": "Verwaltung der ĐNS-Root",
+      "text": "Um die Möglichkeit von Upgrades und Wartungsarbeiten zu erleichtern und in Ausnahmefällen Probleme mit ĐNS zu bewältigen, befindet sich die ĐNS-Root zunächst im Besitz eines Vier- oder Sieben-Multisigs, mit Mitgliedern verwandter Projekte als Schlüsselinhabern. Langfristig möchten wir, dass die Root-Multisig durch eine Form der verteilten Entscheidungsfindung ersetzt wird, sobald solche Systeme verfügbar sind."
     }
   }
 }

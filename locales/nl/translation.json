@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "Één Naam Voor Al je Cryptovaluta",
-      "text": "Nooit meer lange adressen kopiëren en plakken. Gebruik je LNS naam om al je adressen op de slaan en betalingen te ontvangen in alle cryptovaluta."
+      "text": "Nooit meer lange adressen kopiëren en plakken. Gebruik je ĐNS naam om al je adressen op de slaan en betalingen te ontvangen in alle cryptovaluta."
     },
     "statistics": {
-      "title": "LNS is de meest breed geïmplementeerde blockchain benaming standaard.",
+      "title": "ĐNS is de meest breed geïmplementeerde blockchain benaming standaard.",
       "names": "Namen",
       "services": "Integraties",
       "owners": "Eigenaren"
     },
     "decentralisedWebsites": {
       "title": "Gedecentraliseerde Websites",
-      "text": "Lanceer censuur-resistente gedecentraliseerde websites met LNS. Upload je website naar IPFS in onze Manager en bezoek hem door middel van je LNS naam."
+      "text": "Lanceer censuur-resistente gedecentraliseerde websites met ĐNS. Upload je website naar IPFS in onze Manager en bezoek hem door middel van je ĐNS naam."
     },
     "dns": {
       "title": "Gebruik Conventionele Domeinnamen",
-      "text1": "De suffix voor LNS is .BCH, welke alle veiligheidsvoordelen heeft van het draaien op een blockchain.",
-      "text2": "Je kan LNS ook gebruiken met DNS domeinnamen die je al hebt. LNS ondersteunt veel DNS namen, waaronder:"
+      "text1": "De suffix voor ĐNS is .DOGE, welke alle veiligheidsvoordelen heeft van het draaien op een blockchain.",
+      "text2": "Je kan ĐNS ook gebruiken met DNS domeinnamen die je al hebt. ĐNS ondersteunt veel DNS namen, waaronder:"
     },
     "ecosystem": {
-      "title": "LNS Ecosysteem",
+      "title": "ĐNS Ecosysteem",
       "wallets": "Wallets",
       "apps": "Apps",
       "browsers": "Browsers",
@@ -51,10 +51,10 @@
     "additionalFeatures": {
       "title": "Overige Features",
       "recordType": "Maak een eigen record type voor je project.",
-      "textRecord": "Voeg profiel informatie toe aan je LNS naam met tekst velden.",
-      "subDomains": "Maak LNS subdomeinen als gebruikersnamen voor je project.",
+      "textRecord": "Voeg profiel informatie toe aan je ĐNS naam met tekst velden.",
+      "subDomains": "Maak ĐNS subdomeinen als gebruikersnamen voor je project.",
       "dns": "Sla DNS records met bepaalde namen op en serveer ze.",
-      "tor": "Gebruik LNS om makkelijker toegang te krijgen tot Tor .onion diensten.",
+      "tor": "Gebruik ĐNS om makkelijker toegang te krijgen tot Tor .onion diensten.",
       "erc721": ".BCH namen zijn ERC721-compliant NFTs."
     },
     "getInvolved": {
@@ -79,22 +79,22 @@
   },
   "about": {
     "hero": "De smartBCH Name Service is een open source benaming protocol gebouwd op blockchain technologie.",
-    "aboutLNS": {
-      "title": "Over LNS",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+    "aboutDNS": {
+      "title": "Over ĐNS",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "Wij hebben vrijgevige ondersteuning ontvangen van:",
-      "support2": "Vertegenwoordigers van LNS nemen deel aan de bredere Internet gemeenschap:"
+      "support2": "Vertegenwoordigers van ĐNS nemen deel aan de bredere Internet gemeenschap:"
     },
     "team": {
       "title": "Over het team"
     },
     "benefits": {
       "title": "Voordelen van smartBCH",
-      "text": "Hoewel het een breed scala aan middelen die niet op smartBCH draaien ondersteunt draait LNS op de smartBCH blockchain. Dit bied de voordelen van decentralisatie, veiligheid, censuur resistentie en programmeerbaarheid van de smartBCH blockchain aan Internet benamingen, wat nieuwe functies toestaat zoals self-custody, samenstelbaarheid in het bredere smartBCH ecosysteem, en meer."
+      "text": "Hoewel het een breed scala aan middelen die niet op smartBCH draaien ondersteunt draait ĐNS op de smartBCH blockchain. Dit bied de voordelen van decentralisatie, veiligheid, censuur resistentie en programmeerbaarheid van de smartBCH blockchain aan Internet benamingen, wat nieuwe functies toestaat zoals self-custody, samenstelbaarheid in het bredere smartBCH ecosysteem, en meer."
     },
     "root": {
-      "title": "Het Beheer van de LNS Root",
-      "text": "Om de mogelijkheid van upgrades en onderhoud te faciliteren, en in uitzonderlijke omstandigheden problemen met LNS af te handelen, is de LNS root initieel in het eigendom van een vier van zeven multisig, met leden van gerelateerde projecten als sleutelhouders. Op de lange termijn willen we graag de multisig vervangen door een vorm van decentrale beslissingsvorming, wanneer dergelijke systemen beschikbaar worden."
+      "title": "Het Beheer van de ĐNS Root",
+      "text": "Om de mogelijkheid van upgrades en onderhoud te faciliteren, en in uitzonderlijke omstandigheden problemen met ĐNS af te handelen, is de ĐNS root initieel in het eigendom van een vier van zeven multisig, met leden van gerelateerde projecten als sleutelhouders. Op de lange termijn willen we graag de multisig vervangen door een vorm van decentrale beslissingsvorming, wanneer dergelijke systemen beschikbaar worden."
     }
   }
 }

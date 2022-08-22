@@ -1,19 +1,19 @@
 {
   "about": {
-    "aboutLNS": {
+    "aboutDNS": {
       "support": "Recebemos apoio de:",
-      "support2": "Os representantes da LNS que participam na grande comunidade da Internet:",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
-      "title": "Sobre o LNS"
+      "support2": "Os representantes da ĐNS que participam na grande comunidade da Internet:",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+      "title": "Sobre o ĐNS"
     },
     "benefits": {
-      "text": "Apesar de suportar uma ampla gama de ativos fora da rede smartBCH, o LNS funciona na blockchain smartBCH. Isto traz os benefícios de descentralização, segurança, resistência à censura e programabilidade do blockchain smartBCH para nomes na Internet, permitindo novos recursos como autocustódia, composibilidade no ecossistema de contrato inteligente smartBCH e muito mais.",
+      "text": "Apesar de suportar uma ampla gama de ativos fora da rede smartBCH, o ĐNS funciona na blockchain smartBCH. Isto traz os benefícios de descentralização, segurança, resistência à censura e programabilidade do blockchain smartBCH para nomes na Internet, permitindo novos recursos como autocustódia, composibilidade no ecossistema de contrato inteligente smartBCH e muito mais.",
       "title": "Beneficios do smartBCH"
     },
     "hero": "O Serviço de Nome do smartBCH é um protocolo de nomes de código aberto baseado na blockchain",
     "root": {
-      "text": "Para facilitar a possibilidade de atualizações e manutenção, a raiz do LNS é controlada por um multisig quatro de sete, com membros de projetos relacionados como keyholders. A longo prazo, gostaríamos que o multisig root fosse substituído por alguma forma de processo de tomada de decisão distribuído, à medida que tais sistemas se tornassem disponíveis.",
-      "title": "Gestão do LNS"
+      "text": "Para facilitar a possibilidade de atualizações e manutenção, a raiz do ĐNS é controlada por um multisig quatro de sete, com membros de projetos relacionados como keyholders. A longo prazo, gostaríamos que o multisig root fosse substituído por alguma forma de processo de tomada de decisão distribuído, à medida que tais sistemas se tornassem disponíveis.",
+      "title": "Gestão do ĐNS"
     },
     "team": {
       "title": "Conhece a equipa"
@@ -25,12 +25,12 @@
   "home": {
     "additionalFeatures": {
       "dns": "Armazena e utiliza registos DNS tradicionais com nomes específicos.",
-      "erc721": "Os nomes .BCH são ERC721 que segue a norma dos NFTs",
+      "erc721": "Os nomes .DOGE são ERC721 que segue a norma dos NFTs",
       "recordType": "Cria o tipo de registo do teu projeto.",
-      "subDomains": "Cria subdomínios LNS como um nome de utilizador para o teu projeto.",
-      "textRecord": "Junta toda a informação de perfil ao teu nome LNS com registos de texto.",
+      "subDomains": "Cria subdomínios ĐNS como um nome de utilizador para o teu projeto.",
+      "textRecord": "Junta toda a informação de perfil ao teu nome ĐNS com registos de texto.",
       "title": "Características adicionais",
-      "tor": "Usa o LNS para aceder mais facilmente aos serviços ocultos do Tor .onion."
+      "tor": "Usa o ĐNS para aceder mais facilmente aos serviços ocultos do Tor .onion."
     },
     "carousel": {
       "launch": "Abrir App",
@@ -43,16 +43,16 @@
       "text": "Possui o teu nome na Web3, define um avatar e outra informação de perfil para usar em todos os serviços."
     },
     "cryptocurrencies": {
-      "text": "Deixa de copiar e colar endereços compridos. Usa o teu nome LNS para armazenar todos os teus endereços e recebe pagamentos em qualquer criptomoeda.",
+      "text": "Deixa de copiar e colar endereços compridos. Usa o teu nome ĐNS para armazenar todos os teus endereços e recebe pagamentos em qualquer criptomoeda.",
       "title": "Um Nome Para Todas As Tuas Criptomodas"
     },
     "decentralisedWebsites": {
-      "text": "Cria websites descentralizados resistentes à censura com LNS. Faz upload do teu website para IPFS com o nosso Administrador e acede com o teu nome LNS.",
+      "text": "Cria websites descentralizados resistentes à censura com ĐNS. Faz upload do teu website para IPFS com o nosso Administrador e acede com o teu nome ĐNS.",
       "title": "Websites descentralizados"
     },
     "dns": {
-      "text1": "O sufixo nativo do nome para o LNS é .BCH, que conta com a segurança da blockchain nativa.",
-      "text2": "Também podes usar o LNS com os nomes de DNS que já tens. O LNS aceita muitos nomes de DNS como:",
+      "text1": "O sufixo nativo do nome para o ĐNS é .BCH, que conta com a segurança da blockchain nativa.",
+      "text2": "Também podes usar o ĐNS com os nomes de DNS que já tens. O ĐNS aceita muitos nomes de DNS como:",
       "title": "Usa domínios tradicionais"
     },
     "ecosystem": {
@@ -60,7 +60,7 @@
       "browsers": "Navegadores",
       "seeLess": "Ver menos",
       "seeMore": "Ver mais",
-      "title": "Ecossistema LNS",
+      "title": "Ecossistema ĐNS",
       "wallets": "Carteiras"
     },
     "getInvolved": {
@@ -89,7 +89,7 @@
       "names": "Nomes",
       "owners": "Proprietários",
       "services": "Integrações",
-      "title": "LNS é a norma de domínio de topo mais extensa e integrada."
+      "title": "ĐNS é a norma de domínio de topo mais extensa e integrada."
     }
   },
   "nav": {

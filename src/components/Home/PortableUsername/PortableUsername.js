@@ -91,7 +91,7 @@ const Avatar = () => {
       </AvatarContainerInner>
       <AvatarContainerInner ref={containerRefTwo} style={{ opacity: 0 }}>
         <AvatarImg src={nickAvatar} />
-        <AvatarText>pat.bch</AvatarText>
+        <AvatarText>pat.doge</AvatarText>
       </AvatarContainerInner>
     </AvatarContainer>
   )

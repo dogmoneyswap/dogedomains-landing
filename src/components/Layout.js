@@ -1,7 +1,7 @@
 import React from "react"
 import { Helmet } from "react-helmet"
 import { Global, css } from "@emotion/core"
-import favicon from "../assets/favicon.ico"
+import favicon from "../assets/favicon.png"
 import twitter from "../assets/twitter.png"
 
 function getTitle(pathname) {
@@ -9,9 +9,9 @@ function getTitle(pathname) {
     case "/token":
       return "Token"
     case "/about":
-      return "About LNS"
+      return "About ĐNS"
     default:
-      return "Bitcoin Cash Name Service"
+      return "Đoge Name Service"
   }
 }
 
@@ -28,7 +28,7 @@ export default function Layout({ children, data, location }) {
           {
             name: "keywords",
             content:
-              "LNS, BCH, ENS, Bitcoin Cash, Bitcoin Cash Name Service, .bch domains, blockchain domains, ENS on smartBCH",
+              "ĐNS, DOGE, ENS, DogeChain, Doge Name Service, .doge domains, blockchain domains, ENS on DogeChain",
           },
           {
             name: "twitter:card",
@@ -36,11 +36,11 @@ export default function Layout({ children, data, location }) {
           },
           {
             name: "twitter:title",
-            content: "Bitcoin Cash Name Service",
+            content: "Đoge Name Service",
           },
           {
             property: "og:image",
-            content: `https://bch.domains${twitter}`,
+            content: `https://dogedomains.wf${twitter}`,
           },
         ]}
         title={getTitle(location.pathname)}

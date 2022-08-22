@@ -23,25 +23,25 @@
     },
     "cryptocurrencies": {
       "title": "あなたの全ての暗号通貨にひとつの名前を",
-      "text": "もう長いアドレスをコピーして貼り付ける必要はありません。LNS名を使用すれば、全てのアドレスを保存し、任意の暗号通貨で支払いを受け取ることができます。"
+      "text": "もう長いアドレスをコピーして貼り付ける必要はありません。ĐNS名を使用すれば、全てのアドレスを保存し、任意の暗号通貨で支払いを受け取ることができます。"
     },
     "statistics": {
-      "title": "LNSは最も広く統合されたブロックチェーンのネーミングスタンダード",
+      "title": "ĐNSは最も広く統合されたブロックチェーンのネーミングスタンダード",
       "names": "名前",
       "services": "統合",
       "owners": "所有者"
     },
     "decentralisedWebsites": {
       "title": "分散型ウェブサイト",
-      "text": "LNSで検閲に強い分散型Webサイトを立ち上げましょう。ManagerでIPFSにWebサイトをアップロードすれば、LNS名でアクセスできます。"
+      "text": "ĐNSで検閲に強い分散型Webサイトを立ち上げましょう。ManagerでIPFSにWebサイトをアップロードすれば、ĐNS名でアクセスできます。"
     },
     "dns": {
       "title": "従来のドメインを利用",
-      "text1": "LNSのネイティブ名の接尾辞は.BCHで、ブロックチェーンネイティブであるセキュリティ上の利点を完全に備えています。",
-      "text2": "また、既に所有しているDNS名でもLNSを利用することができます。LNSは以下のような多くのDNS名をサポートしています。"
+      "text1": "ĐNSのネイティブ名の接尾辞は.DOGEで、ブロックチェーンネイティブであるセキュリティ上の利点を完全に備えています。",
+      "text2": "また、既に所有しているDNS名でもĐNSを利用することができます。ĐNSは以下のような多くのDNS名をサポートしています。"
     },
     "ecosystem": {
-      "title": "LNS エコシステム",
+      "title": "ĐNS エコシステム",
       "wallets": "ウォレット",
       "apps": "アプリ",
       "browsers": "ブラウザ",
@@ -52,11 +52,11 @@
       "title": "追加機能",
       "recordType": "プロジェクト独自のレコードタイプを作成できます。",
 
-      "textRecord": "LNS名にプロフィール情報をテキストレコードで添付できます。",
+      "textRecord": "ĐNS名にプロフィール情報をテキストレコードで添付できます。",
 
-      "subDomains": "プロジェクトのユーザー名としてLNSサブドメインを作成できます。",
+      "subDomains": "プロジェクトのユーザー名としてĐNSサブドメインを作成できます。",
       "dns": "特定の名前で従来のDNSレコードを保存し、提供します。",
-      "tor": "LNSを使用して、Tor.onionの隠れたサービスにもっと簡単にアクセスできます。",
+      "tor": "ĐNSを使用して、Tor.onionの隠れたサービスにもっと簡単にアクセスできます。",
       "erc721": ".BCH名はERC721準拠のNFTです。"
     },
     "getInvolved": {
@@ -81,22 +81,22 @@
   },
   "about": {
     "hero": "イーサリアム・ネーム・サービスは、オープンソースでブロックチェーンベースのネーミング・プロトコルです。",
-    "aboutLNS": {
-      "title": "LNSについて",
-      "text": "Funded by MistSwap in early 2022, LNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. LNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
+    "aboutDNS": {
+      "title": "ĐNSについて",
+      "text": "Funded by MistSwap in early 2022, ĐNS forked from ENS onto smartBCH with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "私たちは下記、団体様からの寛大なご支援を頂いております。",
-      "support2": "LNSの代表者は、より大きなインターネットコミュニティに参加しています。"
+      "support2": "ĐNSの代表者は、より大きなインターネットコミュニティに参加しています。"
     },
     "team": {
       "title": "チーム紹介"
     },
     "benefits": {
       "title": "イーサリアムの利点",
-      "text": "LNSはイーサリアム以外の資産を幅広くサポートしていますが、イーサリアム・ブロックチェーン上で動作します。これにより、イーサリアム・ブロックチェーンの分散化、セキュリティ、検閲耐性、プログラミング性といったイーサリアム・ブロックチェーンの利点がインターネットネーミングにもたらされ、自己管理、より大きなイーサリアム・スマートコントラクトエコシステムでのコンポーザビリティ等の新機能が利用可能になります。"
+      "text": "ĐNSはイーサリアム以外の資産を幅広くサポートしていますが、イーサリアム・ブロックチェーン上で動作します。これにより、イーサリアム・ブロックチェーンの分散化、セキュリティ、検閲耐性、プログラミング性といったイーサリアム・ブロックチェーンの利点がインターネットネーミングにもたらされ、自己管理、より大きなイーサリアム・スマートコントラクトエコシステムでのコンポーザビリティ等の新機能が利用可能になります。"
     },
     "root": {
-      "title": "LNSルートの管理",
-      "text": "アップグレードやメンテナンスの可能性を容易にするため、また、例外的なLNSの問題に対処するために、LNSのルートは、当初は7人中4人のマルチシグで所有し、関連するプロジェクトのメンバーをキー所有者としています。長期的には、そのようなシステムが利用可能になるなら、ルートのマルチシグを何らかの形で分散型の意思決定プロセスに置き換えたいと考えています。"
+      "title": "ĐNSルートの管理",
+      "text": "アップグレードやメンテナンスの可能性を容易にするため、また、例外的なĐNSの問題に対処するために、ĐNSのルートは、当初は7人中4人のマルチシグで所有し、関連するプロジェクトのメンバーをキー所有者としています。長期的には、そのようなシステムが利用可能になるなら、ルートのマルチシグを何らかの形で分散型の意思決定プロセスに置き換えたいと考えています。"
     }
   }
 }

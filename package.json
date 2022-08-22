@@ -1,7 +1,7 @@
 {
   "name": "lns.domains-v2",
   "private": true,
-  "description": "LNS Domains homepage V2",
+  "description": "ĐNS Domains homepage V2",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
