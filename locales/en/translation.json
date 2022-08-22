@@ -82,7 +82,7 @@
   },
   "about": {
     "hero": "The Đoge Name Service is an open source blockchain-based naming protocol.",
-    "aboutLNS": {
+    "aboutDNS": {
       "title": "About ĐNS",
       "text": "ĐNS forked from LNS onto DogeChain with a focus on decentralization, inexpensive fees, and robust tokenomics. ĐNS development is led by mainnet_pat and is a public good, a basic piece of Internet infrastructure that belongs to the community. We welcome all feedback and contributions!",
       "support": "We have received generous financial support from:",
