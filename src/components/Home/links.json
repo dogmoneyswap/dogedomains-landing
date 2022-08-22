@@ -1,63 +1,7 @@
 {
-  "benswap": {
-    "link": "https://benswap.cash/",
-    "name": "BenSwap"
-  },
-  "paytaca": {
-    "link": "https://www.paytaca.com/",
-    "name": "Paytaca"
-  },
-  "electroncash": {
-    "link": "https://electroncash.org/",
-    "name": "Electron Cash"
-  },
-  "tropical": {
-    "link": "https://tropical.finance/",
-    "name": "Tropical Finance"
-  },
-  "1bch": {
-    "link": "https://1bch.com/",
-    "name": "1BCH"
-  },
-  "tango": {
-    "link": "https://tangoswap.cash/",
-    "name": "TangoSwap"
-  },
-  "benswap": {
-    "link": "https://benswap.cash/",
-    "name": "BenSwap"
-  },
-  "smartscan": {
-    "link": "https://smartscan.cash/",
-    "name": "SmartScan"
-  },
-  "emberswap": {
-    "link": "https://emberswap.com/",
-    "name": "EmberSwap"
-  },
-  "smartswap": {
-    "link": "https://smartswap.fi/",
-    "name": "SmartSwap",
-    "featuredApp": 5
-  },
-  "smartsafe": {
-    "link": "https://smartsafe.cash/",
-    "name": "Smart Safe",
-    "featuredApp": 4
-  },
-  "sonar": {
-    "link": "https://sonar.cash/",
-    "name": "Sonar",
-    "featuredApp": 3
-  },
-  "oasis": {
-    "link": "https://oasis.cash/",
-    "name": "OASIS",
-    "featuredApp": 2
-  },
-  "mistswap": {
-    "link": "https://app.mistswap.fi/",
-    "name": "MistSwap",
+  "dogmoney": {
+    "link": "https://app.dogmoney.money/",
+    "name": "DogMoney",
     "featuredApp": 1
   }
 }
