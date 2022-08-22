@@ -55,7 +55,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-matomo',
       options: {
-        siteId: 5,
+        siteId: 10,
         matomoUrl: 'https://matomo.mistswap.fi',
         siteUrl: 'https://bch.domains',
       },
