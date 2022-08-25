@@ -7,7 +7,7 @@ import { H2, P as DefaultP } from "../../Typography"
 import { Gap } from "../../../utils"
 import { Anchor, AnchorContainer } from "../../Anchor"
 
-import nickAvatar from "../../About/Team/photos/mainnet_pat.png"
+import nickAvatar from "./dns.svg"
 import avatar from "./avatar.png"
 
 const HeroContainer = styled("div")`
@@ -91,7 +91,7 @@ const Avatar = () => {
       </AvatarContainerInner>
       <AvatarContainerInner ref={containerRefTwo} style={{ opacity: 0 }}>
         <AvatarImg src={nickAvatar} />
-        <AvatarText>pat.doge</AvatarText>
+        <AvatarText>dns.doge</AvatarText>
       </AvatarContainerInner>
     </AvatarContainer>
   )

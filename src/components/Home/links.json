@@ -3,5 +3,15 @@
     "link": "https://app.dogmoney.money/",
     "name": "DogMoney",
     "featuredApp": 1
+  },
+  "yode": {
+    "link": "https://app.yodeswap.dog/",
+    "name": "YodeSwap",
+    "featuredApp": 2
+  },
+  "dogesafe": {
+    "link": "https://safe.dogmoney.money/",
+    "name": "DogeSafe",
+    "featuredApp": 3
   }
 }
