@@ -13,5 +13,15 @@
     "link": "https://safe.dogmoney.money/",
     "name": "DogeSafe",
     "featuredApp": 3
+  },
+  "oasis": {
+    "link": "https://oasis-nft.dog/",
+    "name": "Oasis NFT Marketplace",
+    "featuredApp": 4
+  },
+  "sonar": {
+    "link": "https://explorer.dogmoney.money",
+    "name": "Sonar Block Explorer",
+    "featuredApp": 5
   }
 }
