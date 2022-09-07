@@ -226,7 +226,7 @@ export default function Navigation() {
         <a href="/token">Token</a>
         <a href="https://discord.gg/SMRdBNkeaa">Community</a>
         <Link to="/about">Team</Link>
-        <a href="https://docs.bch.domains/">Docs</a>
+        <a href="https://docs.dogedomains.wf/">Docs</a>
 
         <Separator />
         <LanguageSwitcher />
@@ -245,7 +245,7 @@ export default function Navigation() {
           <Link to="/about">Team</Link>
         </li>
         <li>
-          <a href="https://docs.bch.domains/">Docs</a>
+          <a href="https://docs.dogedomains.wf/">Docs</a>
         </li>
         <li>
           <Launch href="https://app.dogedomains.wf">{t("nav.launch")}</Launch>

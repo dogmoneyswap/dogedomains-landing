@@ -115,7 +115,7 @@ export default function Footer(props) {
       </SocialContainer>
       <FooterColumn>
         <MailTo href="mailto:press@bch.domains">press@bch.domains</MailTo>
-        <MailTo href="https://docs.bch.domains/bug-bounty-program">
+        <MailTo href="https://docs.dogedomains.wf/bug-bounty-program">
           Bug Bounty
         </MailTo>
       </FooterColumn>

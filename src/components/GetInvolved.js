@@ -23,7 +23,7 @@ const links = [
     img: documentation,
     text: "Read our documentation",
     cta: "Read Docs",
-    link: "https://docs.bch.domains/",
+    link: "https://docs.dogedomains.wf/",
   },
 ]
 

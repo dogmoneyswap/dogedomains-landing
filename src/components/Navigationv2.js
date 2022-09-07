@@ -181,7 +181,7 @@ export default function Navigation() {
         </NavLink>
         <NavLink href="https://discord.gg/SMRdBNkeaa">Community</NavLink>
         <NavLink href="/about">Team</NavLink>
-        <NavLink href="https://docs.bch.domains/">Docs</NavLink>
+        <NavLink href="https://docs.dogedomains.wf/">Docs</NavLink>
 
         <Separator />
         <LanguageSwitcher />
@@ -201,7 +201,7 @@ export default function Navigation() {
           <Link to="/about">Team</Link>
         </li>
         <li>
-          <a href="https://docs.bch.domains/">Docs</a>
+          <a href="https://docs.dogedomains.wf/">Docs</a>
         </li>
         <li>
           <a href="https://app.dogedomains.wf">

@@ -186,7 +186,7 @@ const standardBoxData = [
     color: "#4D90F1",
     backgroundColor: "rgba(77, 144, 241, 0.1)",
     borderColor: "#B0D0FF",
-    link: "https://docs.bch.domains/tokenomics/",
+    link: "https://docs.dogedomains.wf/tokenomics/",
   },
 ]
 
