@@ -23,5 +23,10 @@
     "link": "https://explorer.dogmoney.money",
     "name": "Sonar Block Explorer",
     "featuredApp": 5
+  },
+  "rat": {
+    "link": "https://nightmares.cryptor.at",
+    "name": "CryptoR.AT: Nightmares",
+    "featuredApp": 6
   }
 }
