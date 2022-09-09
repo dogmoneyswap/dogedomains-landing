@@ -28,5 +28,10 @@
     "link": "https://nightmares.cryptor.at",
     "name": "CryptoR.AT: Nightmares",
     "featuredApp": 6
+  },
+  "disperse": {
+    "link": "https://dispersedoge.netlify.app",
+    "name": "Disperse App",
+    "featuredApp": 7
   }
 }
